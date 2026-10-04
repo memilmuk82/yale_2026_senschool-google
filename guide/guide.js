@@ -19,8 +19,8 @@
   const copyBlocks = (items) => { if (!items?.length) return ""; let out=""; for(let i=0;i<items.length;i+=2){out+=`<div class="copy-block"><strong>${escapeHtml(items[i])}</strong><pre>${escapeHtml(items[i+1])}</pre><button type="button" data-copy="${escapeHtml(items[i+1])}">문구 복사</button></div>`;} return out; };
   const guideStep = (num, title, html) => `<div class="guide-step"><h3><span class="step-index">${num}</span>${title}</h3>${html}</div>`;
 
-  toc.innerHTML = `<strong>참가자 교재 · G01–G${sections.length}</strong>${sections.map(s=>`<a href="#${s.id}" data-nav="${s.id}">${s.id} ${escapeHtml(s.title)}</a>`).join("")}`;
-  content.innerHTML = `<h1>SEN스쿨 × 구글 클래스룸(Education Plus)</h1><p class="section-lead">SenGPT로 수업자료를 만들고 검토·수정하기</p><p>예일여자고등학교 · 2026.10.6. 14:00–16:00 · 아가페실. SenGPT의 수업자료 생성·검토와 수정·에이전트 재사용이 현장 필수 실습입니다. Gemini 상세 내용은 강사 시연과 연수 후 참고 경로에 보존합니다.</p>` + sections.map((s,index)=>{
+  toc.innerHTML = `<strong>참가자 교재 · ${sections.length}절</strong>${sections.map(s=>`<a href="#${s.id}" data-nav="${s.id}">${s.id} ${escapeHtml(s.title)}</a>`).join("")}`;
+  content.innerHTML = `<h1>센스쿨 × 구글 클래스룸</h1><p class="section-lead">센지피티로 수업자료를 만들고 검토·수정하기</p><p>예일여자고등학교 · 2026.10.6. 14:00–16:00 · 아가페실. 센지피티의 수업자료 생성·검토와 수정·에이전트 재사용이 현장 필수 실습입니다. 제미나이 상세 내용은 강사 시연과 연수 후 참고 경로에 보존합니다.</p>` + sections.map((s,index)=>{
     const prev = sections[index-1], next=sections[index+1];
     const slides = slideRange(s.id);
     const firstSlide = deck.findIndex(item=>item.guide===s.id||item.relatedGuides?.includes(s.id))+1;
@@ -29,7 +29,7 @@
       ${guideStep("01", "현재 위치", `<p>교재 ${s.id} · 발표 슬라이드 ${slides}</p>`)}
       ${guideStep("02", "할 일", `<ol>${s.tasks.map(t=>`<li>${t}</li>`).join("")}</ol>`)}
       ${guideStep("03", "화면과 참고 자료", images)}
-      ${guideStep("04", "복사 문구와 원문 링크", `${links(s.links)}${copyBlocks(s.copy)}${!s.links?.length&&!s.copy?.length?"<p>이 절에서 복사할 문구나 새 URL은 없습니다.</p>":""}`)}
+      ${guideStep("04", "복사 문구와 원문 링크", `${links(s.links)}${copyBlocks(s.copy)}${!s.links?.length&&!s.copy?.length?"<p>이 절에서 복사할 문구나 새 주소은 없습니다.</p>":""}`)}
       ${s.extra||""}
       ${guideStep("05", "여기까지 하면 성공", `<div class="success-box">${escapeHtml(s.success)}</div>`)}
       ${guideStep("06", "안 되면", `<details><summary>접속·화면·근거 확인 방법</summary><div class="details-body"><ul>${s.fail.map(t=>`<li>${escapeHtml(t)}</li>`).join("")}</ul></div></details>`)}
