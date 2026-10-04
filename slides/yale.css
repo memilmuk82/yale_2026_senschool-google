@@ -1,0 +1,5 @@
+
+.yale-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:32px}.yale-cards:has(>div:nth-child(4)){grid-template-columns:repeat(2,1fr)}.yale-cards>div{background:#fff;border:1px solid #ddd7f3;border-radius:18px;padding:28px}.yale-cards h2{font-size:31px;color:#4434ac;margin:0 0 16px}.yale-cards p{font-size:27px;margin:0;line-height:1.6}.yale-list{margin:28px 0 22px;padding-left:42px}.yale-list li{font-size:29px;line-height:1.5;margin:15px 0;padding-left:8px}.yale-schedule{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;margin:30px 0}.yale-schedule>div{display:grid;gap:11px;padding:23px;background:#fff;border-bottom:3px solid #d8d1f5}.yale-schedule b{font-size:26px;color:#6d5ce7}.yale-schedule span{font-size:29px;font-weight:750}.reference-label{position:absolute;top:19px;right:65px;color:#786d97;font-size:16px}.slide:has(.reference-label){padding-top:56px}
+ .reference-label{top:29px;right:180px}
+
+.current-screen{margin:12px auto 0;text-align:center}.current-screen img{display:block;height:585px;max-width:100%;object-fit:contain;margin:auto;cursor:zoom-in}.current-screen figcaption{font-size:19px;margin-top:8px;color:#5b5072}

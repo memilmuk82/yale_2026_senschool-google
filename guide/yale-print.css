@@ -1,0 +1,17 @@
+@media print{
+ .section-view{padding:0;box-decoration-break:clone}
+ .guide-step{break-inside:avoid;margin:10px 0;padding:10px 14px}
+ .guide-step:has(.guide-image){break-inside:auto;border:0;background:none;padding:0}
+ .guide-step h3{font-size:19px;break-after:avoid}
+ .guide-image{margin:10px 0;padding:10px;break-inside:avoid}
+ .guide-image img{width:auto;max-width:100%;max-height:110mm;margin:auto}
+ .guide-image img[src*="/yale/"]{max-height:65mm}
+ .copy-block{margin:10px 0;padding:12px 15px}
+ .copy-block pre{font-size:14px;line-height:1.55}
+ .copy-block button{display:none}
+ .success-box{break-inside:avoid}
+ .guide-step:has(.success-box){break-after:avoid}
+ .table-wrap{overflow:visible}
+ details{margin:6px 0}summary{padding:10px 12px}
+ .section-view p,.section-view li{font-size:14px}
+}

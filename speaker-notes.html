@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>예일여고 교원 연수 · 강사 노트</title>
+  <style>
+    body{margin:0;background:#f5f2ff;color:#251e41;font-family:Pretendard,'Noto Sans KR','Malgun Gothic',sans-serif}
+    header{position:sticky;top:0;padding:20px 5vw;background:#fff;border-bottom:1px solid #ddd5f7;z-index:2}h1{margin:0;font-size:27px}
+    main,.timing{max-width:970px;margin:35px auto 70px;padding:0 24px}.timing{margin-bottom:0}.timing h2{color:#4834ab}
+    table{width:100%;border-collapse:collapse;background:#fff}th,td{padding:10px 12px;border:1px solid #e2dcf4;text-align:left}th{background:#ebe6ff}
+    .item{margin:0 0 17px;padding:22px 26px;border:1px solid #e2dcf4;border-radius:15px;background:#fff}.item h2{margin:0 0 8px;color:#4834ab;font-size:21px}.item p{margin:0;line-height:1.65;font-size:16px}.item a{display:inline-block;margin-top:11px;color:#4f3fc0;font-weight:800}
+    @media print{body{background:#fff}header{position:static}main,.timing{margin:0;max-width:none}.item{break-inside:avoid;box-shadow:none}}
+  </style>
+</head>
+<body>
+  <header><h1>SEN스쿨 × 구글 클래스룸(Education Plus) · 강사 노트</h1></header>
+  <section class="timing" aria-label="운영 시간표">
+    <h2>운영 시간표</h2>
+    <table><thead><tr><th>경과</th><th>슬라이드</th><th>운영 내용</th><th>소요</th></tr></thead><tbody><tr><td>14:00–14:15</td><td>1–7</td><td>SEN·Google 첫 로그인·Chrome 프로필</td><td>15분</td></tr><tr><td>14:15–14:30</td><td>8–21</td><td>SEN 기능과 주요 개편</td><td>15분</td></tr><tr><td>14:30–14:45</td><td>22–27</td><td>Education Plus 기능 소개</td><td>15분</td></tr><tr><td>14:45–14:55</td><td>28–33</td><td>학교 맥락·Gemini 소개와 강사 시연</td><td>10분</td></tr><tr><td>14:55–15:00</td><td>34–38</td><td>기본 채팅·모델·사용량·공식 에이전트</td><td>5분</td></tr><tr><td>15:00–15:15</td><td>39–41</td><td>실습 1: 수업자료 생성</td><td>15분</td></tr><tr><td>15:15–15:25</td><td>42–44</td><td>실습 2: 검토·수정</td><td>10분</td></tr><tr><td>15:25–15:40</td><td>45–50</td><td>실습 3: 에이전트 만들기·테스트</td><td>15분</td></tr><tr><td>15:40–15:50</td><td>51–53</td><td>실습 4: 다른 주제 재사용·정리</td><td>10분</td></tr><tr><td>15:50–16:00</td><td>54–56</td><td>결과 공유·질의응답</td><td>10분</td></tr></tbody></table>
+  </section>
+  <section class="timing"><p>본편 56장 · 이후 40장은 연수 후 참고. SenGPT 생성·검토·수정·에이전트는 2026.10.4. 실제 시연 기록입니다. 첫 로그인·Chrome 프로필 분기는 현재 로그인된 계정에서 재현되지 않았습니다. 기존 참고 캡처는 2026.9. 원본 기록입니다.</p></section><main id="notes"></main>
+  <script src="./slides/slides.js"></script>
+  <script>document.querySelector('#notes').innerHTML=window.DECK.map((item,i)=>`<section class="item"><h2>${String(i+1).padStart(2,'0')} ${item.title}</h2><p>${item.notes}</p><a href="./slides/index.html#slide=${i+1}">슬라이드 열기 ↗</a></section>`).join('');</script>
+</body>
+</html>
