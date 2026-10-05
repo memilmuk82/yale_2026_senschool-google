@@ -27,6 +27,8 @@
     const anchor = item.guide ? `#${item.guide}` : "";
     return `<article class="slide ${item.layout || ""} ${extra}" data-section="${item.section || ""}">
       ${item.html}
+      <a class="page-link" href="./index.html#slide=${index+1}" target="_blank" rel="noopener">이 페이지 ↗</a>
+      <nav class="screen-links" aria-label="실제 화면 바로 열기">${(item.liveLinks||[]).map(link=>`<a href="${link.url}" target="_blank" rel="noopener">${link.label} ↗</a>`).join("")}</nav>
       <span class="slide-number">${String(index + 1).padStart(2, "0")} / ${String(deck.length).padStart(2, "0")}</span>
       <a class="guide-link" href="../guide/index.html${anchor}" target="_blank" rel="noopener">상세 교안 ↗</a>
     </article>`;
