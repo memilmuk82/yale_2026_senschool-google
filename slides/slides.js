@@ -317,7 +317,7 @@ window.DECK = [
     "guide": "G41",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>타이머 · 읽기와 토론 시간을 함께 보기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-timer.jpg\" alt=\"타이머 · 읽기와 토론 시간을 함께 보기\" data-modal-src=\"../assets/yale/actual/toolkit-timer.jpg\" data-modal-title=\"타이머 · 읽기와 토론 시간을 함께 보기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>시간을 정합니다</span></div><div><b>2</b><span>시작·일시정지합니다</span></div><div><b>3</b><span>전체화면으로 안내합니다</span></div></div><p class=\"actual-look\">독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다.</p>",
-    "notes": "시간을 정합니다 → 시작·일시정지합니다 → 전체화면으로 안내합니다。 독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다. 스톱워치에서는 구간 기록도 남길 수 있습니다.",
+    "notes": "시간을 정합니다 → 시작·일시정지합니다 → 전체화면으로 안내합니다. 독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다. 스톱워치에서는 구간 기록도 남길 수 있습니다.",
     "liveLinks": [
       {
         "label": "타이머 열기",
@@ -332,7 +332,7 @@ window.DECK = [
     "guide": "G42",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>현재시간 · 수업 종료 시각과 현재 시각 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-clock.jpg\" alt=\"현재시간 · 수업 종료 시각과 현재 시각 확인\" data-modal-src=\"../assets/yale/actual/toolkit-clock.jpg\" data-modal-title=\"현재시간 · 수업 종료 시각과 현재 시각 확인\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>시계 모양을 고릅니다</span></div><div><b>2</b><span>현재 시각을 확인합니다</span></div><div><b>3</b><span>세계 시간을 비교합니다</span></div></div><p class=\"actual-look\">발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다.</p>",
-    "notes": "시계 모양을 고릅니다 → 현재 시각을 확인합니다 → 세계 시간을 비교합니다。 발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다. 디지털·아날로그·세계 시간 중 목적에 맞게 선택합니다.",
+    "notes": "시계 모양을 고릅니다 → 현재 시각을 확인합니다 → 세계 시간을 비교합니다. 발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다. 디지털·아날로그·세계 시간 중 목적에 맞게 선택합니다.",
     "liveLinks": [
       {
         "label": "현재시간 열기",
@@ -347,7 +347,7 @@ window.DECK = [
     "guide": "G43",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>랜덤뽑기 · 발표할 모둠을 무작위로 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-random.jpg\" alt=\"랜덤뽑기 · 발표할 모둠을 무작위로 선택\" data-modal-src=\"../assets/yale/actual/toolkit-random.jpg\" data-modal-title=\"랜덤뽑기 · 발표할 모둠을 무작위로 선택\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>항목을 추가합니다</span></div><div><b>2</b><span>중복 제외를 정합니다</span></div><div><b>3</b><span>뽑고 결과를 확인합니다</span></div></div><p class=\"actual-look\">가상 모둠 이름으로 독서 토론 발표 순서를 정합니다.</p>",
-    "notes": "항목을 추가합니다 → 중복 제외를 정합니다 → 뽑고 결과를 확인합니다。 가상 모둠 이름으로 독서 토론 발표 순서를 정합니다. 뽑은 항목 제외 여부를 먼저 확인합니다.",
+    "notes": "항목을 추가합니다 → 중복 제외를 정합니다 → 뽑고 결과를 확인합니다. 가상 모둠 이름으로 독서 토론 발표 순서를 정합니다. 뽑은 항목 제외 여부를 먼저 확인합니다.",
     "liveLinks": [
       {
         "label": "랜덤뽑기 열기",
@@ -362,7 +362,7 @@ window.DECK = [
     "guide": "G44",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>돌림판 · 수업 활동을 돌림판으로 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-wheel.jpg\" alt=\"돌림판 · 수업 활동을 돌림판으로 선택\" data-modal-src=\"../assets/yale/actual/toolkit-wheel.jpg\" data-modal-title=\"돌림판 · 수업 활동을 돌림판으로 선택\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>활동 이름을 넣습니다</span></div><div><b>2</b><span>제외 조건을 정합니다</span></div><div><b>3</b><span>돌리고 결과를 봅니다</span></div></div><p class=\"actual-look\">근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다.</p>",
-    "notes": "활동 이름을 넣습니다 → 제외 조건을 정합니다 → 돌리고 결과를 봅니다。 근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다. 학생 평가 점수 결정에 사용하는 사례가 아닙니다.",
+    "notes": "활동 이름을 넣습니다 → 제외 조건을 정합니다 → 돌리고 결과를 봅니다. 근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다. 학생 평가 점수 결정에 사용하는 사례가 아닙니다.",
     "liveLinks": [
       {
         "label": "돌림판 열기",
@@ -377,7 +377,7 @@ window.DECK = [
     "guide": "G45",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>점수판 · 모둠 활동의 진행 점수 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-score.jpg\" alt=\"점수판 · 모둠 활동의 진행 점수 안내\" data-modal-src=\"../assets/yale/actual/toolkit-score.jpg\" data-modal-title=\"점수판 · 모둠 활동의 진행 점수 안내\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>팀을 추가합니다</span></div><div><b>2</b><span>가감 점수를 정합니다</span></div><div><b>3</b><span>점수와 기록을 봅니다</span></div></div><p class=\"actual-look\">과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다.</p>",
-    "notes": "팀을 추가합니다 → 가감 점수를 정합니다 → 점수와 기록을 봅니다。 과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다. 화면 점수는 수업 진행용이며 학교 공식 배점이 아닙니다.",
+    "notes": "팀을 추가합니다 → 가감 점수를 정합니다 → 점수와 기록을 봅니다. 과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다. 화면 점수는 수업 진행용이며 학교 공식 배점이 아닙니다.",
     "liveLinks": [
       {
         "label": "점수판 열기",
@@ -392,7 +392,7 @@ window.DECK = [
     "guide": "G46",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>모둠만들기 · 명단과 조건으로 모둠 편성</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-groups.jpg\" alt=\"모둠만들기 · 명단과 조건으로 모둠 편성\" data-modal-src=\"../assets/yale/actual/toolkit-groups.jpg\" data-modal-title=\"모둠만들기 · 명단과 조건으로 모둠 편성\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>가상 명단을 넣습니다</span></div><div><b>2</b><span>모둠 수를 정합니다</span></div><div><b>3</b><span>편성 후 명단을 복사합니다</span></div></div><p class=\"actual-look\">가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다.</p>",
-    "notes": "가상 명단을 넣습니다 → 모둠 수를 정합니다 → 편성 후 명단을 복사합니다。 가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다. 자동은 모둠 수, 직접은 모둠당 인원을 기준으로 나눕니다.",
+    "notes": "가상 명단을 넣습니다 → 모둠 수를 정합니다 → 편성 후 명단을 복사합니다. 가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다. 자동은 모둠 수, 직접은 모둠당 인원을 기준으로 나눕니다.",
     "liveLinks": [
       {
         "label": "모둠만들기 열기",
@@ -407,7 +407,7 @@ window.DECK = [
     "guide": "G47",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>자리배치 · 책상 배치와 조건에 맞춰 자리 정하기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-seats.jpg\" alt=\"자리배치 · 책상 배치와 조건에 맞춰 자리 정하기\" data-modal-src=\"../assets/yale/actual/toolkit-seats.jpg\" data-modal-title=\"자리배치 · 책상 배치와 조건에 맞춰 자리 정하기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>책상 모양을 고릅니다</span></div><div><b>2</b><span>명단·조건을 정합니다</span></div><div><b>3</b><span>배치하고 자리를 조정합니다</span></div></div><p class=\"actual-look\">토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다.</p>",
-    "notes": "책상 모양을 고릅니다 → 명단·조건을 정합니다 → 배치하고 자리를 조정합니다。 토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다. 두 자리를 차례로 누르면 맞바꿀 수 있습니다. 새로고침 전 배치 복사로 남깁니다.",
+    "notes": "책상 모양을 고릅니다 → 명단·조건을 정합니다 → 배치하고 자리를 조정합니다. 토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다. 두 자리를 차례로 누르면 맞바꿀 수 있습니다. 새로고침 전 배치 복사로 남깁니다.",
     "liveLinks": [
       {
         "label": "자리배치 열기",
@@ -422,7 +422,7 @@ window.DECK = [
     "guide": "G48",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>사다리타기 · 모둠 역할과 발표 순서를 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-ladder.jpg\" alt=\"사다리타기 · 모둠 역할과 발표 순서를 연결\" data-modal-src=\"../assets/yale/actual/toolkit-ladder.jpg\" data-modal-title=\"사다리타기 · 모둠 역할과 발표 순서를 연결\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>출발 항목을 넣습니다</span></div><div><b>2</b><span>결과 역할을 고릅니다</span></div><div><b>3</b><span>사다리 경로를 확인합니다</span></div></div><p class=\"actual-look\">가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다.</p>",
-    "notes": "출발 항목을 넣습니다 → 결과 역할을 고릅니다 → 사다리 경로를 확인합니다。 가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다. 출발과 결과 항목 수를 확인하고 학생 평가에는 사용하지 않습니다.",
+    "notes": "출발 항목을 넣습니다 → 결과 역할을 고릅니다 → 사다리 경로를 확인합니다. 가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다. 출발과 결과 항목 수를 확인하고 학생 평가에는 사용하지 않습니다.",
     "liveLinks": [
       {
         "label": "사다리타기 열기",
@@ -437,7 +437,7 @@ window.DECK = [
     "guide": "G49",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>주사위 · 무작위 수와 확률 탐구</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-dice.jpg\" alt=\"주사위 · 무작위 수와 확률 탐구\" data-modal-src=\"../assets/yale/actual/toolkit-dice.jpg\" data-modal-title=\"주사위 · 무작위 수와 확률 탐구\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>종류·개수를 정합니다</span></div><div><b>2</b><span>주사위를 굴립니다</span></div><div><b>3</b><span>합계·기록을 확인합니다</span></div></div><p class=\"actual-look\">두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다.</p>",
-    "notes": "종류·개수를 정합니다 → 주사위를 굴립니다 → 합계·기록을 확인합니다。 두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다. 화면은 실제 한 번 굴린 결과입니다.",
+    "notes": "종류·개수를 정합니다 → 주사위를 굴립니다 → 합계·기록을 확인합니다. 두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다. 화면은 실제 한 번 굴린 결과입니다.",
     "liveLinks": [
       {
         "label": "주사위 열기",
@@ -452,7 +452,7 @@ window.DECK = [
     "guide": "G50",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>뽑기레이스 · 발표 순서를 레이스로 정하기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-race.jpg\" alt=\"뽑기레이스 · 발표 순서를 레이스로 정하기\" data-modal-src=\"../assets/yale/actual/toolkit-race.jpg\" data-modal-title=\"뽑기레이스 · 발표 순서를 레이스로 정하기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>가상 모둠을 넣습니다</span></div><div><b>2</b><span>시작·일시정지합니다</span></div><div><b>3</b><span>골인 순서를 확인합니다</span></div></div><p class=\"actual-look\">독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다.</p>",
-    "notes": "가상 모둠을 넣습니다 → 시작·일시정지합니다 → 골인 순서를 확인합니다。 독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다. 화면은 가상 모둠 세 개의 출발 전 준비 상태입니다.",
+    "notes": "가상 모둠을 넣습니다 → 시작·일시정지합니다 → 골인 순서를 확인합니다. 독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다. 화면은 가상 모둠 세 개의 출발 전 준비 상태입니다.",
     "liveLinks": [
       {
         "label": "뽑기레이스 열기",
@@ -467,7 +467,7 @@ window.DECK = [
     "guide": "G51",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-qr.jpg\" alt=\"큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기\" data-modal-src=\"../assets/yale/actual/toolkit-qr.jpg\" data-modal-title=\"큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>교재 주소를 넣습니다</span></div><div><b>2</b><span>큐알을 크게 띄웁니다</span></div><div><b>3</b><span>휴대기기로 접속합니다</span></div></div><p class=\"actual-look\">예일여고 참가자 교재 주소로 생성한 실제 큐알입니다.</p>",
-    "notes": "교재 주소를 넣습니다 → 큐알을 크게 띄웁니다 → 휴대기기로 접속합니다。 예일여고 참가자 교재 주소로 생성한 실제 큐알입니다. 이미지로 저장하면 수업자료에 넣을 수 있습니다.",
+    "notes": "교재 주소를 넣습니다 → 큐알을 크게 띄웁니다 → 휴대기기로 접속합니다. 예일여고 참가자 교재 주소로 생성한 실제 큐알입니다. 이미지로 저장하면 수업자료에 넣을 수 있습니다.",
     "liveLinks": [
       {
         "label": "큐알 만들기 열기",
@@ -482,7 +482,7 @@ window.DECK = [
     "guide": "G52",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>국민의례 · 학교 행사 절차와 음원 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-anthem.jpg\" alt=\"국민의례 · 학교 행사 절차와 음원 안내\" data-modal-src=\"../assets/yale/actual/toolkit-anthem.jpg\" data-modal-title=\"국민의례 · 학교 행사 절차와 음원 안내\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>음원·절수를 정합니다</span></div><div><b>2</b><span>묵념 시간을 정합니다</span></div><div><b>3</b><span>단계별·순서대로 재생합니다</span></div></div><p class=\"actual-look\">학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다.</p>",
-    "notes": "음원·절수를 정합니다 → 묵념 시간을 정합니다 → 단계별·순서대로 재생합니다。 학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다. 묵념은 음원 없이 시간을 잽니다. 이번 화면은 재생 전 설정입니다.",
+    "notes": "음원·절수를 정합니다 → 묵념 시간을 정합니다 → 단계별·순서대로 재생합니다. 학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다. 묵념은 음원 없이 시간을 잽니다. 이번 화면은 재생 전 설정입니다.",
     "liveLinks": [
       {
         "label": "국민의례 열기",
@@ -497,7 +497,7 @@ window.DECK = [
     "guide": "G53",
     "layout": "actual-slide tool-slide",
     "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>주기율표 · 원소를 선택해 성질과 위치 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-ptable.jpg\" alt=\"주기율표 · 원소를 선택해 성질과 위치 확인\" data-modal-src=\"../assets/yale/actual/toolkit-ptable.jpg\" data-modal-title=\"주기율표 · 원소를 선택해 성질과 위치 확인\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>원소를 선택합니다</span></div><div><b>2</b><span>주기·족·성질을 봅니다</span></div><div><b>3</b><span>가리기·맞히기를 활용합니다</span></div></div><p class=\"actual-look\">과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다.</p>",
-    "notes": "원소를 선택합니다 → 주기·족·성질을 봅니다 → 가리기·맞히기를 활용합니다。 과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다. 원소 이름과 기호는 서비스가 표시하는 실제 과학 표기입니다.",
+    "notes": "원소를 선택합니다 → 주기·족·성질을 봅니다 → 가리기·맞히기를 활용합니다. 과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다. 원소 이름과 기호는 서비스가 표시하는 실제 과학 표기입니다.",
     "liveLinks": [
       {
         "label": "주기율표 열기",
@@ -554,7 +554,7 @@ window.DECK = [
     "guide": "G40",
     "layout": "edition-slide",
     "html": "<div class=\"eyebrow\">펀더멘털 기본판과 에듀케이션 플러스</div><h1>기본판에서 플러스로 무엇이 더해질까</h1><table class=\"edition-table\"><thead><tr><th>비교할 기능</th><th>펀더멘털 기본판</th><th>에듀케이션 플러스</th></tr></thead><tbody><tr><td>기본 수업·협업</td><td>문서·자료표·발표·설문·클래스룸</td><td>기본 기능을 포함합니다</td></tr><tr><td>사용 성격</td><td>자격을 갖춘 교육기관에 무료</td><td>유료 판 · 고급 수업·관리 기능</td></tr><tr><td>원본성 보고서</td><td>수업당 과제 다섯 개</td><td>과제 수 제한 없이 사용</td></tr><tr><td>클래스룸 부가기능</td><td>제공하지 않음</td><td>과제 안에 외부 학습도구 연결</td></tr></tbody></table><p class=\"takeaway\">센스쿨의 구글 200GB·네이버웍스 500GB는 앞에서 소개한 별도 서비스입니다.</p>",
-    "notes": "센스쿨의 구글 200GB·네이버웍스 500GB는 앞에서 소개한 별도 서비스입니다. 구글 공식 판별 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
+    "notes": "센스쿨의 구글 200GB·네이버웍스 500GB는 앞에서 소개한 별도 서비스입니다. 구글 공식 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
     "liveLinks": [
       {
         "label": "구글 공식 비교표",
@@ -568,7 +568,7 @@ window.DECK = [
     "guide": "G40",
     "layout": "edition-slide",
     "html": "<div class=\"eyebrow\">펀더멘털 기본판과 에듀케이션 플러스</div><h1>추가 기능을 차례대로 확인합니다</h1><table class=\"edition-table\"><thead><tr><th>비교할 기능</th><th>펀더멘털 기본판</th><th>에듀케이션 플러스</th></tr></thead><tbody><tr><td>수업 과제</td><td>기본 과제 배포·제출</td><td>연습세트·영상 질문·수업 분석</td></tr><tr><td>화상 수업</td><td>기본 화상 수업</td><td>소그룹·설문·질문·녹화</td></tr><tr><td>운영 관리</td><td>기본 관리 기능</td><td>보안·분석·관리 기능 확대</td></tr><tr><td>인공지능 사례</td><td>접근 권한과 이용 조건 확인</td><td>계정·관리자·개별 이용 조건 확인</td></tr></tbody></table><p class=\"takeaway\">제미나이와 노트북 전체를 플러스 전용 기능으로 묶어 설명하지 않습니다.</p>",
-    "notes": "제미나이와 노트북 전체를 플러스 전용 기능으로 묶어 설명하지 않습니다. 구글 공식 판별 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
+    "notes": "제미나이와 노트북 전체를 플러스 전용 기능으로 묶어 설명하지 않습니다. 구글 공식 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
     "liveLinks": [
       {
         "label": "구글 공식 비교표",
