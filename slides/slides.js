@@ -49,8 +49,8 @@ window.DECK = [
     "title": "오늘의 전체 흐름",
     "section": "시작",
     "guide": "G01",
-    "html": "<div class=\"eyebrow\">120분 연수</div><h1>오늘의 전체 흐름</h1><div class=\"yale-schedule\"><div><b>14:00–14:15</b><span>로그인·크롬 프로필</span></div><div><b>14:15–14:30</b><span>센스쿨 개편</span></div><div><b>14:30–14:45</b><span>구글 에듀케이션 플러스</span></div><div><b>14:45–14:55</b><span>예일여고 사례·제미나이 시연</span></div><div><b>14:55–15:50</b><span>센지피티 직접 실습</span></div><div><b>15:50–16:00</b><span>공유·질의응답</span></div></div><p class=\"takeaway\">필수 실습: 수업자료 생성 → 검토·수정 → 나만의 에이전트 → 재사용</p>",
-    "notes": "120분 시간표를 지킨다. 제미나이 상세 설명은 참고 슬라이드와 교재에 보존한다.",
+    "html": "<div class=\"eyebrow\">120분 연수</div><h1>오늘의 전체 흐름</h1><div class=\"flow-list\"><div><b>하나</b><span>센스쿨 개편 · 툴킷 전체 · 저장 공간</span></div><div><b>둘</b><span>기본판과 플러스 비교 → 추가 기능 하나씩</span></div><div><b>셋</b><span>클래스룸 제미나이 → 제미나이 노트북</span></div><div><b>넷</b><span>센지피티 생성 → 교사 수정 → 역할 저장 → 재사용</span></div></div><p class=\"takeaway\">설명과 시연을 마친 뒤, 센지피티로 내 수업자료 하나를 완성합니다.</p>",
+    "notes": "센스쿨 30분, 비교와 추가 기능 15분, 두 제미나이 사례 10분, 센지피티 준비와 실습 55분, 공유 10분을 기준으로 진행합니다. 모든 기능 소개 페이지를 갖추되 참가자 상황에 따라 실제 화면과 교재로 연결합니다.",
     "layout": "",
     "liveLinks": [
       {
@@ -61,7 +61,7 @@ window.DECK = [
   },
   {
     "title": "학교 계정으로 먼저 접속",
-    "section": "14:00–14:15 · 접속",
+    "section": "시작",
     "guide": "G02",
     "layout": "",
     "html": "<div class=\"eyebrow\">14:00–14:15 · 접속</div><h1>학교 계정으로 먼저 접속</h1><ul class=\"yale-list\"><li>센스쿨에서 교원 로그인을 완료합니다.</li><li>구글 계정은 학교가 제공한 교육 계정인지 확인합니다.</li><li>크롬의 계정과 웹서비스의 로그인 계정을 각각 확인합니다.</li></ul><p class=\"takeaway\">처음 로그인·인증은 참가자가 직접 진행합니다. 비밀번호를 자료에 넣지 않습니다.</p>",
@@ -89,7 +89,7 @@ window.DECK = [
   },
   {
     "title": "노트북과 갤럭시 탭에서 함께 보기",
-    "section": "접속",
+    "section": "시작",
     "guide": "G01",
     "layout": "",
     "html": "<div class=\"eyebrow\">접속</div><h1>노트북과 갤럭시 탭에서 함께 보기</h1><ul class=\"yale-list\"><li>발표자료와 참가자 교재를 별도 창으로 엽니다.</li><li>캡처는 누르면 확대할 수 있습니다.</li><li>복사 문구의 학년·시간·읽기 자료를 내 수업에 맞춥니다.</li></ul><p class=\"takeaway\">학생 개인정보 없이 교사 계정의 시연용 초안을 만듭니다.</p>",
@@ -228,6 +228,62 @@ window.DECK = [
     ]
   },
   {
+    "title": "클래스 화면의 표시 설정",
+    "section": "센스쿨",
+    "guide": "G10",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>클래스 화면의 표시 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-class-settings.jpg\" alt=\"클래스 화면의 표시 설정\" data-modal-src=\"../assets/yale/actual/sen-class-settings.jpg\" data-modal-title=\"클래스 화면의 표시 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">메인 화면과 클래스 표시 항목을 구분합니다.</p>",
+    "notes": "메인 화면과 클래스 표시 항목을 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "센스쿨 메뉴 열기",
+        "url": "https://senedu.kr/mainTchr.html"
+      }
+    ]
+  },
+  {
+    "title": "우리반 화면 설정",
+    "section": "센스쿨",
+    "guide": "G09",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>우리반 화면 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-homeroom-settings.jpg\" alt=\"우리반 화면 설정\" data-modal-src=\"../assets/yale/actual/sen-homeroom-settings.jpg\" data-modal-title=\"우리반 화면 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">담임 관리·학생 배정과 표시 설정은 각각 다른 작업입니다.</p>",
+    "notes": "담임 관리·학생 배정과 표시 설정은 각각 다른 작업입니다.",
+    "liveLinks": [
+      {
+        "label": "센스쿨 메뉴 열기",
+        "url": "https://senedu.kr/mainTchr.html"
+      }
+    ]
+  },
+  {
+    "title": "클래스 순서 설정",
+    "section": "센스쿨",
+    "guide": "G10",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>클래스 순서 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-class-order.jpg\" alt=\"클래스 순서 설정\" data-modal-src=\"../assets/yale/actual/sen-class-order.jpg\" data-modal-title=\"클래스 순서 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">표시 순서 변경과 실제 학생 이동을 구분합니다.</p>",
+    "notes": "표시 순서 변경과 실제 학생 이동을 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "센스쿨 메뉴 열기",
+        "url": "https://senedu.kr/mainTchr.html"
+      }
+    ]
+  },
+  {
+    "title": "출판사와 내 도구 설정",
+    "section": "센스쿨",
+    "guide": "G12",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>출판사와 내 도구 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-tools-settings.jpg\" alt=\"출판사와 내 도구 설정\" data-modal-src=\"../assets/yale/actual/sen-tools-settings.jpg\" data-modal-title=\"출판사와 내 도구 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">현재 연결 가능한 도구와 직접 추가하는 링크를 확인합니다.</p>",
+    "notes": "현재 연결 가능한 도구와 직접 추가하는 링크를 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "센스쿨 메뉴 열기",
+        "url": "https://senedu.kr/mainTchr.html"
+      }
+    ]
+  },
+  {
     "title": "자주 쓰는 도구는 세 개까지",
     "section": "센스쿨",
     "guide": "G11",
@@ -256,32 +312,199 @@ window.DECK = [
     ]
   },
   {
-    "title": "수업 시간을 화면으로 안내",
+    "title": "타이머 · 읽기와 토론 시간을 함께 보기",
     "section": "센스쿨",
-    "guide": "G11",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>수업 시간을 화면으로 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-tool-timer.jpg\" alt=\"수업 시간을 화면으로 안내\" data-modal-src=\"../assets/yale/actual/sen-tool-timer.jpg\" data-modal-title=\"수업 시간을 화면으로 안내\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">모둠 읽기·질문 만들기·정리 시간에 타이머를 활용합니다.</p>",
-    "notes": "모둠 읽기·질문 만들기·정리 시간에 타이머를 활용합니다.",
+    "guide": "G41",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>타이머 · 읽기와 토론 시간을 함께 보기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-timer.jpg\" alt=\"타이머 · 읽기와 토론 시간을 함께 보기\" data-modal-src=\"../assets/yale/actual/toolkit-timer.jpg\" data-modal-title=\"타이머 · 읽기와 토론 시간을 함께 보기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>시간을 정합니다</span></div><div><b>2</b><span>시작·일시정지합니다</span></div><div><b>3</b><span>전체화면으로 안내합니다</span></div></div><p class=\"actual-look\">독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다.</p>",
+    "notes": "시간을 정합니다 → 시작·일시정지합니다 → 전체화면으로 안내합니다。 독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다. 스톱워치에서는 구간 기록도 남길 수 있습니다.",
     "liveLinks": [
       {
         "label": "타이머 열기",
         "url": "https://senedu.kr/toolkit?tool=timer"
       }
-    ]
+    ],
+    "toolKey": "timer"
   },
   {
-    "title": "교재를 큐알로 연결",
+    "title": "현재시간 · 수업 종료 시각과 현재 시각 확인",
     "section": "센스쿨",
-    "guide": "G11",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>교재를 큐알로 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-tool-qr.jpg\" alt=\"교재를 큐알로 연결\" data-modal-src=\"../assets/yale/actual/sen-tool-qr.jpg\" data-modal-title=\"교재를 큐알로 연결\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">실제 참가자 교재 주소로 만들고 휴대기기에서 접속을 확인합니다.</p>",
-    "notes": "실제 참가자 교재 주소로 만들고 휴대기기에서 접속을 확인합니다.",
+    "guide": "G42",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>현재시간 · 수업 종료 시각과 현재 시각 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-clock.jpg\" alt=\"현재시간 · 수업 종료 시각과 현재 시각 확인\" data-modal-src=\"../assets/yale/actual/toolkit-clock.jpg\" data-modal-title=\"현재시간 · 수업 종료 시각과 현재 시각 확인\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>시계 모양을 고릅니다</span></div><div><b>2</b><span>현재 시각을 확인합니다</span></div><div><b>3</b><span>세계 시간을 비교합니다</span></div></div><p class=\"actual-look\">발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다.</p>",
+    "notes": "시계 모양을 고릅니다 → 현재 시각을 확인합니다 → 세계 시간을 비교합니다。 발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다. 디지털·아날로그·세계 시간 중 목적에 맞게 선택합니다.",
     "liveLinks": [
       {
-        "label": "큐알 도구 열기",
+        "label": "현재시간 열기",
+        "url": "https://senedu.kr/toolkit?tool=clock"
+      }
+    ],
+    "toolKey": "clock"
+  },
+  {
+    "title": "랜덤뽑기 · 발표할 모둠을 무작위로 선택",
+    "section": "센스쿨",
+    "guide": "G43",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>랜덤뽑기 · 발표할 모둠을 무작위로 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-random.jpg\" alt=\"랜덤뽑기 · 발표할 모둠을 무작위로 선택\" data-modal-src=\"../assets/yale/actual/toolkit-random.jpg\" data-modal-title=\"랜덤뽑기 · 발표할 모둠을 무작위로 선택\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>항목을 추가합니다</span></div><div><b>2</b><span>중복 제외를 정합니다</span></div><div><b>3</b><span>뽑고 결과를 확인합니다</span></div></div><p class=\"actual-look\">가상 모둠 이름으로 독서 토론 발표 순서를 정합니다.</p>",
+    "notes": "항목을 추가합니다 → 중복 제외를 정합니다 → 뽑고 결과를 확인합니다。 가상 모둠 이름으로 독서 토론 발표 순서를 정합니다. 뽑은 항목 제외 여부를 먼저 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "랜덤뽑기 열기",
+        "url": "https://senedu.kr/toolkit?tool=random"
+      }
+    ],
+    "toolKey": "random"
+  },
+  {
+    "title": "돌림판 · 수업 활동을 돌림판으로 선택",
+    "section": "센스쿨",
+    "guide": "G44",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>돌림판 · 수업 활동을 돌림판으로 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-wheel.jpg\" alt=\"돌림판 · 수업 활동을 돌림판으로 선택\" data-modal-src=\"../assets/yale/actual/toolkit-wheel.jpg\" data-modal-title=\"돌림판 · 수업 활동을 돌림판으로 선택\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>활동 이름을 넣습니다</span></div><div><b>2</b><span>제외 조건을 정합니다</span></div><div><b>3</b><span>돌리고 결과를 봅니다</span></div></div><p class=\"actual-look\">근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다.</p>",
+    "notes": "활동 이름을 넣습니다 → 제외 조건을 정합니다 → 돌리고 결과를 봅니다。 근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다. 학생 평가 점수 결정에 사용하는 사례가 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "돌림판 열기",
+        "url": "https://senedu.kr/toolkit?tool=wheel"
+      }
+    ],
+    "toolKey": "wheel"
+  },
+  {
+    "title": "점수판 · 모둠 활동의 진행 점수 안내",
+    "section": "센스쿨",
+    "guide": "G45",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>점수판 · 모둠 활동의 진행 점수 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-score.jpg\" alt=\"점수판 · 모둠 활동의 진행 점수 안내\" data-modal-src=\"../assets/yale/actual/toolkit-score.jpg\" data-modal-title=\"점수판 · 모둠 활동의 진행 점수 안내\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>팀을 추가합니다</span></div><div><b>2</b><span>가감 점수를 정합니다</span></div><div><b>3</b><span>점수와 기록을 봅니다</span></div></div><p class=\"actual-look\">과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다.</p>",
+    "notes": "팀을 추가합니다 → 가감 점수를 정합니다 → 점수와 기록을 봅니다。 과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다. 화면 점수는 수업 진행용이며 학교 공식 배점이 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "점수판 열기",
+        "url": "https://senedu.kr/toolkit?tool=score"
+      }
+    ],
+    "toolKey": "score"
+  },
+  {
+    "title": "모둠만들기 · 명단과 조건으로 모둠 편성",
+    "section": "센스쿨",
+    "guide": "G46",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>모둠만들기 · 명단과 조건으로 모둠 편성</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-groups.jpg\" alt=\"모둠만들기 · 명단과 조건으로 모둠 편성\" data-modal-src=\"../assets/yale/actual/toolkit-groups.jpg\" data-modal-title=\"모둠만들기 · 명단과 조건으로 모둠 편성\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>가상 명단을 넣습니다</span></div><div><b>2</b><span>모둠 수를 정합니다</span></div><div><b>3</b><span>편성 후 명단을 복사합니다</span></div></div><p class=\"actual-look\">가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다.</p>",
+    "notes": "가상 명단을 넣습니다 → 모둠 수를 정합니다 → 편성 후 명단을 복사합니다。 가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다. 자동은 모둠 수, 직접은 모둠당 인원을 기준으로 나눕니다.",
+    "liveLinks": [
+      {
+        "label": "모둠만들기 열기",
+        "url": "https://senedu.kr/toolkit?tool=groups"
+      }
+    ],
+    "toolKey": "groups"
+  },
+  {
+    "title": "자리배치 · 책상 배치와 조건에 맞춰 자리 정하기",
+    "section": "센스쿨",
+    "guide": "G47",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>자리배치 · 책상 배치와 조건에 맞춰 자리 정하기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-seats.jpg\" alt=\"자리배치 · 책상 배치와 조건에 맞춰 자리 정하기\" data-modal-src=\"../assets/yale/actual/toolkit-seats.jpg\" data-modal-title=\"자리배치 · 책상 배치와 조건에 맞춰 자리 정하기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>책상 모양을 고릅니다</span></div><div><b>2</b><span>명단·조건을 정합니다</span></div><div><b>3</b><span>배치하고 자리를 조정합니다</span></div></div><p class=\"actual-look\">토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다.</p>",
+    "notes": "책상 모양을 고릅니다 → 명단·조건을 정합니다 → 배치하고 자리를 조정합니다。 토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다. 두 자리를 차례로 누르면 맞바꿀 수 있습니다. 새로고침 전 배치 복사로 남깁니다.",
+    "liveLinks": [
+      {
+        "label": "자리배치 열기",
+        "url": "https://senedu.kr/toolkit?tool=seats"
+      }
+    ],
+    "toolKey": "seats"
+  },
+  {
+    "title": "사다리타기 · 모둠 역할과 발표 순서를 연결",
+    "section": "센스쿨",
+    "guide": "G48",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>사다리타기 · 모둠 역할과 발표 순서를 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-ladder.jpg\" alt=\"사다리타기 · 모둠 역할과 발표 순서를 연결\" data-modal-src=\"../assets/yale/actual/toolkit-ladder.jpg\" data-modal-title=\"사다리타기 · 모둠 역할과 발표 순서를 연결\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>출발 항목을 넣습니다</span></div><div><b>2</b><span>결과 역할을 고릅니다</span></div><div><b>3</b><span>사다리 경로를 확인합니다</span></div></div><p class=\"actual-look\">가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다.</p>",
+    "notes": "출발 항목을 넣습니다 → 결과 역할을 고릅니다 → 사다리 경로를 확인합니다。 가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다. 출발과 결과 항목 수를 확인하고 학생 평가에는 사용하지 않습니다.",
+    "liveLinks": [
+      {
+        "label": "사다리타기 열기",
+        "url": "https://senedu.kr/toolkit?tool=ladder"
+      }
+    ],
+    "toolKey": "ladder"
+  },
+  {
+    "title": "주사위 · 무작위 수와 확률 탐구",
+    "section": "센스쿨",
+    "guide": "G49",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>주사위 · 무작위 수와 확률 탐구</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-dice.jpg\" alt=\"주사위 · 무작위 수와 확률 탐구\" data-modal-src=\"../assets/yale/actual/toolkit-dice.jpg\" data-modal-title=\"주사위 · 무작위 수와 확률 탐구\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>종류·개수를 정합니다</span></div><div><b>2</b><span>주사위를 굴립니다</span></div><div><b>3</b><span>합계·기록을 확인합니다</span></div></div><p class=\"actual-look\">두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다.</p>",
+    "notes": "종류·개수를 정합니다 → 주사위를 굴립니다 → 합계·기록을 확인합니다。 두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다. 화면은 실제 한 번 굴린 결과입니다.",
+    "liveLinks": [
+      {
+        "label": "주사위 열기",
+        "url": "https://senedu.kr/toolkit?tool=dice"
+      }
+    ],
+    "toolKey": "dice"
+  },
+  {
+    "title": "뽑기레이스 · 발표 순서를 레이스로 정하기",
+    "section": "센스쿨",
+    "guide": "G50",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>뽑기레이스 · 발표 순서를 레이스로 정하기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-race.jpg\" alt=\"뽑기레이스 · 발표 순서를 레이스로 정하기\" data-modal-src=\"../assets/yale/actual/toolkit-race.jpg\" data-modal-title=\"뽑기레이스 · 발표 순서를 레이스로 정하기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>가상 모둠을 넣습니다</span></div><div><b>2</b><span>시작·일시정지합니다</span></div><div><b>3</b><span>골인 순서를 확인합니다</span></div></div><p class=\"actual-look\">독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다.</p>",
+    "notes": "가상 모둠을 넣습니다 → 시작·일시정지합니다 → 골인 순서를 확인합니다。 독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다. 화면은 가상 모둠 세 개의 출발 전 준비 상태입니다.",
+    "liveLinks": [
+      {
+        "label": "뽑기레이스 열기",
+        "url": "https://senedu.kr/toolkit?tool=race"
+      }
+    ],
+    "toolKey": "race"
+  },
+  {
+    "title": "큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기",
+    "section": "센스쿨",
+    "guide": "G51",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-qr.jpg\" alt=\"큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기\" data-modal-src=\"../assets/yale/actual/toolkit-qr.jpg\" data-modal-title=\"큐알 만들기 · 주소를 바로 접속하는 큐알로 바꾸기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>교재 주소를 넣습니다</span></div><div><b>2</b><span>큐알을 크게 띄웁니다</span></div><div><b>3</b><span>휴대기기로 접속합니다</span></div></div><p class=\"actual-look\">예일여고 참가자 교재 주소로 생성한 실제 큐알입니다.</p>",
+    "notes": "교재 주소를 넣습니다 → 큐알을 크게 띄웁니다 → 휴대기기로 접속합니다。 예일여고 참가자 교재 주소로 생성한 실제 큐알입니다. 이미지로 저장하면 수업자료에 넣을 수 있습니다.",
+    "liveLinks": [
+      {
+        "label": "큐알 만들기 열기",
         "url": "https://senedu.kr/toolkit?tool=qr"
       }
-    ]
+    ],
+    "toolKey": "qr"
+  },
+  {
+    "title": "국민의례 · 학교 행사 절차와 음원 안내",
+    "section": "센스쿨",
+    "guide": "G52",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>국민의례 · 학교 행사 절차와 음원 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-anthem.jpg\" alt=\"국민의례 · 학교 행사 절차와 음원 안내\" data-modal-src=\"../assets/yale/actual/toolkit-anthem.jpg\" data-modal-title=\"국민의례 · 학교 행사 절차와 음원 안내\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>음원·절수를 정합니다</span></div><div><b>2</b><span>묵념 시간을 정합니다</span></div><div><b>3</b><span>단계별·순서대로 재생합니다</span></div></div><p class=\"actual-look\">학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다.</p>",
+    "notes": "음원·절수를 정합니다 → 묵념 시간을 정합니다 → 단계별·순서대로 재생합니다。 학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다. 묵념은 음원 없이 시간을 잽니다. 이번 화면은 재생 전 설정입니다.",
+    "liveLinks": [
+      {
+        "label": "국민의례 열기",
+        "url": "https://senedu.kr/toolkit?tool=anthem"
+      }
+    ],
+    "toolKey": "anthem"
+  },
+  {
+    "title": "주기율표 · 원소를 선택해 성질과 위치 확인",
+    "section": "센스쿨",
+    "guide": "G53",
+    "layout": "actual-slide tool-slide",
+    "html": "<div class=\"eyebrow\">센스쿨 · 실제 화면</div><h1>주기율표 · 원소를 선택해 성질과 위치 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/toolkit-ptable.jpg\" alt=\"주기율표 · 원소를 선택해 성질과 위치 확인\" data-modal-src=\"../assets/yale/actual/toolkit-ptable.jpg\" data-modal-title=\"주기율표 · 원소를 선택해 성질과 위치 확인\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><div class=\"tool-steps\"><div><b>1</b><span>원소를 선택합니다</span></div><div><b>2</b><span>주기·족·성질을 봅니다</span></div><div><b>3</b><span>가리기·맞히기를 활용합니다</span></div></div><p class=\"actual-look\">과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다.</p>",
+    "notes": "원소를 선택합니다 → 주기·족·성질을 봅니다 → 가리기·맞히기를 활용합니다。 과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다. 원소 이름과 기호는 서비스가 표시하는 실제 과학 표기입니다.",
+    "liveLinks": [
+      {
+        "label": "주기율표 열기",
+        "url": "https://senedu.kr/toolkit?tool=ptable"
+      }
+    ],
+    "toolKey": "ptable"
   },
   {
     "title": "센스쿨 개편에서 확인할 것",
@@ -298,12 +521,12 @@ window.DECK = [
     ]
   },
   {
-    "title": "구글 드라이브 이백 기가바이트",
-    "section": "구글 에듀케이션 플러스",
+    "title": "구글 드라이브 200GB",
+    "section": "센스쿨",
     "guide": "G34",
     "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>구글 드라이브 이백 기가바이트</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-drive-200gb.jpg\" alt=\"구글 드라이브 이백 기가바이트\" data-modal-src=\"../assets/yale/actual/google-drive-200gb.jpg\" data-modal-title=\"구글 드라이브 이백 기가바이트\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">현재 강사 교육 계정에 표시된 개인 저장용량입니다.</p>",
-    "notes": "현재 강사 교육 계정에 표시된 개인 저장용량입니다.",
+    "html": "<div class=\"eyebrow\">센스쿨 제공 서비스 · 실제 화면</div><h1>구글 드라이브 200GB</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-drive-200gb.jpg\" alt=\"구글 드라이브 200GB\" data-modal-src=\"../assets/yale/actual/google-drive-200gb.jpg\" data-modal-title=\"구글 드라이브 200GB\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">현재 강사 교육 계정에 표시된 개인 저장용량입니다.</p>",
+    "notes": "현재 강사 교육 계정에 표시된 개인 저장용량입니다. 센스쿨 제공 서비스의 저장 공간 안내이며 구글 플러스 판의 개인 용량 보장으로 설명하지 않습니다.",
     "liveLinks": [
       {
         "label": "구글 저장용량 열기",
@@ -312,16 +535,44 @@ window.DECK = [
     ]
   },
   {
-    "title": "네이버웍스 드라이브 오백 기가바이트",
-    "section": "구글 에듀케이션 플러스",
+    "title": "네이버웍스 드라이브 500GB",
+    "section": "센스쿨",
     "guide": "G34",
     "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>네이버웍스 드라이브 오백 기가바이트</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/works-drive-500gb.jpg\" alt=\"네이버웍스 드라이브 오백 기가바이트\" data-modal-src=\"../assets/yale/actual/works-drive-500gb.jpg\" data-modal-title=\"네이버웍스 드라이브 오백 기가바이트\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">사용 2.2와 남은 497.8기가바이트를 합산한 개인 용량입니다.</p>",
-    "notes": "조직 공용 저장공간이 아닌 내 드라이브 화면입니다. 참가자 자신의 계정에서도 확인합니다.",
+    "html": "<div class=\"eyebrow\">센스쿨 제공 서비스 · 실제 화면</div><h1>네이버웍스 드라이브 500GB</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/works-drive-500gb.jpg\" alt=\"네이버웍스 드라이브 500GB\" data-modal-src=\"../assets/yale/actual/works-drive-500gb.jpg\" data-modal-title=\"네이버웍스 드라이브 500GB\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">사용 2.2와 남은 497.8기가바이트를 합산한 개인 용량입니다.</p>",
+    "notes": "조직 공용 저장공간이 아닌 내 드라이브 화면입니다. 참가자 자신의 계정에서도 확인합니다. 센스쿨 제공 서비스의 저장 공간 안내이며 구글 플러스 판의 개인 용량 보장으로 설명하지 않습니다.",
     "liveLinks": [
       {
         "label": "네이버웍스 용량 열기",
         "url": "https://drive.worksmobile.com/settings/my"
+      }
+    ]
+  },
+  {
+    "title": "기본판에서 플러스로 무엇이 더해질까",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G40",
+    "layout": "edition-slide",
+    "html": "<div class=\"eyebrow\">펀더멘털 기본판과 에듀케이션 플러스</div><h1>기본판에서 플러스로 무엇이 더해질까</h1><table class=\"edition-table\"><thead><tr><th>비교할 기능</th><th>펀더멘털 기본판</th><th>에듀케이션 플러스</th></tr></thead><tbody><tr><td>기본 수업·협업</td><td>문서·자료표·발표·설문·클래스룸</td><td>기본 기능을 포함합니다</td></tr><tr><td>사용 성격</td><td>자격을 갖춘 교육기관에 무료</td><td>유료 판 · 고급 수업·관리 기능</td></tr><tr><td>원본성 보고서</td><td>수업당 과제 다섯 개</td><td>과제 수 제한 없이 사용</td></tr><tr><td>클래스룸 부가기능</td><td>제공하지 않음</td><td>과제 안에 외부 학습도구 연결</td></tr></tbody></table><p class=\"takeaway\">센스쿨의 구글 200GB·네이버웍스 500GB는 앞에서 소개한 별도 서비스입니다.</p>",
+    "notes": "센스쿨의 구글 200GB·네이버웍스 500GB는 앞에서 소개한 별도 서비스입니다. 구글 공식 판별 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
+    "liveLinks": [
+      {
+        "label": "구글 공식 비교표",
+        "url": "https://knowledge.workspace.google.com/admin/getting-started/editions/compare-education-editions?hl=ko"
+      }
+    ]
+  },
+  {
+    "title": "추가 기능을 차례대로 확인합니다",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G40",
+    "layout": "edition-slide",
+    "html": "<div class=\"eyebrow\">펀더멘털 기본판과 에듀케이션 플러스</div><h1>추가 기능을 차례대로 확인합니다</h1><table class=\"edition-table\"><thead><tr><th>비교할 기능</th><th>펀더멘털 기본판</th><th>에듀케이션 플러스</th></tr></thead><tbody><tr><td>수업 과제</td><td>기본 과제 배포·제출</td><td>연습세트·영상 질문·수업 분석</td></tr><tr><td>화상 수업</td><td>기본 화상 수업</td><td>소그룹·설문·질문·녹화</td></tr><tr><td>운영 관리</td><td>기본 관리 기능</td><td>보안·분석·관리 기능 확대</td></tr><tr><td>인공지능 사례</td><td>접근 권한과 이용 조건 확인</td><td>계정·관리자·개별 이용 조건 확인</td></tr></tbody></table><p class=\"takeaway\">제미나이와 노트북 전체를 플러스 전용 기능으로 묶어 설명하지 않습니다.</p>",
+    "notes": "제미나이와 노트북 전체를 플러스 전용 기능으로 묶어 설명하지 않습니다. 구글 공식 판별 비교표를 확인한 뒤 다음 기능의 실제 화면을 하나씩 소개합니다.",
+    "liveLinks": [
+      {
+        "label": "구글 공식 비교표",
+        "url": "https://knowledge.workspace.google.com/admin/getting-started/editions/compare-education-editions?hl=ko"
       }
     ]
   },
@@ -368,6 +619,34 @@ window.DECK = [
     ]
   },
   {
+    "title": "한국어 답안으로 학생 관점 확인",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G14",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">플러스 · 실제 화면</div><h1>한국어 답안으로 학생 관점 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-student.jpg\" alt=\"한국어 답안으로 학생 관점 확인\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-student.jpg\" data-modal-title=\"한국어 답안으로 학생 관점 확인\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">물의 양을 입력한 뒤 오답·힌트·재시도를 확인합니다.</p>",
+    "notes": "물의 양을 입력한 뒤 오답·힌트·재시도를 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "학생 미리보기 열기",
+        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview"
+      }
+    ]
+  },
+  {
+    "title": "학생에게 보이는 오답 안내",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G14",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">플러스 · 실제 화면</div><h1>학생에게 보이는 오답 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-feedback.jpg\" alt=\"학생에게 보이는 오답 안내\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-feedback.jpg\" data-modal-title=\"학생에게 보이는 오답 안내\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">다시 시도 표시와 정답 기준을 교사가 미리 점검합니다.</p>",
+    "notes": "다시 시도 표시와 정답 기준을 교사가 미리 점검합니다.",
+    "liveLinks": [
+      {
+        "label": "학생 미리보기 열기",
+        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview"
+      }
+    ]
+  },
+  {
     "title": "정답을 다시 제출해 확인",
     "section": "구글 에듀케이션 플러스",
     "guide": "G14",
@@ -378,6 +657,20 @@ window.DECK = [
       {
         "label": "학생 미리보기 열기",
         "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview"
+      }
+    ]
+  },
+  {
+    "title": "연습세트 교사 공유 메뉴",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G14",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">플러스 · 실제 화면</div><h1>연습세트 교사 공유 메뉴</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-sharing.jpg\" alt=\"연습세트 교사 공유 메뉴\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-sharing.jpg\" data-modal-title=\"연습세트 교사 공유 메뉴\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">교사 액세스가 꺼진 상태이며 학생 배포와 구분합니다.</p>",
+    "notes": "교사 액세스가 꺼진 상태이며 학생 배포와 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "연습세트 편집 열기",
+        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/edit"
       }
     ]
   },
@@ -424,22 +717,50 @@ window.DECK = [
     ]
   },
   {
-    "title": "한국어 수업 계획을 문서로 이어가기",
-    "section": "구글 문서",
-    "guide": "G23",
+    "title": "원본성 보고서 · 출처를 검토하는 도구",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G38",
     "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">구글 문서 · 실제 화면</div><h1>한국어 수업 계획을 문서로 이어가기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-docs-yale-korean.jpg\" alt=\"한국어 수업 계획을 문서로 이어가기\" data-modal-src=\"../assets/yale/actual/google-docs-yale-korean.jpg\" data-modal-title=\"한국어 수업 계획을 문서로 이어가기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">문서로 내보낸 계획을 도우미와 함께 다듬고 교사가 사실·제안을 재검토합니다.</p>",
-    "notes": "현재 계정에서 확인한 문서 도우미입니다. 플러스 구독만으로 모든 생성 기능이 제공된다고 단정하지 않습니다. 도우미가 초안을 학교 자료의 사실로 다시 묶은 부분은 교사가 수정해야 합니다.",
+    "html": "<div class=\"eyebrow\">플러스 · 실제 화면</div><h1>원본성 보고서 · 출처를 검토하는 도구</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-originality.jpg\" alt=\"원본성 보고서 · 출처를 검토하는 도구\" data-modal-src=\"../assets/yale/actual/classroom-yale-originality.jpg\" data-modal-title=\"원본성 보고서 · 출처를 검토하는 도구\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">기본판은 수업당 과제 다섯 개, 플러스는 제한 없이 사용합니다.</p>",
+    "notes": "출처 일치 부분을 교사가 검토합니다. 인공지능 사용 여부를 확정하는 판정으로 설명하지 않습니다. 현재 화면은 미배포 과제의 설정 위치입니다.",
     "liveLinks": [
       {
-        "label": "독서 수업 문서 열기",
-        "url": "https://docs.google.com/document/d/1waWVVArFBwe6hUjn0R87w-maNKNn883SxLL5y7wCexQ/edit"
+        "label": "시연 수업 과제 열기",
+        "url": "https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all"
+      }
+    ]
+  },
+  {
+    "title": "클래스룸 부가기능 · 과제 안에 도구 연결",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G38",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>클래스룸 부가기능 · 과제 안에 도구 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-originality.jpg\" alt=\"클래스룸 부가기능 · 과제 안에 도구 연결\" data-modal-src=\"../assets/yale/actual/classroom-yale-originality.jpg\" data-modal-title=\"클래스룸 부가기능 · 과제 안에 도구 연결\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">과제 편집기의 부가기능 목록에서 학습도구를 선택합니다.</p>",
+    "notes": "실제 계정에 표시된 도구 목록입니다. 설치나 새로운 권한 승인까지 완료한 시연은 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "시연 수업 과제 열기",
+        "url": "https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all"
+      }
+    ]
+  },
+  {
+    "title": "읽기 연습 · 첨부 메뉴와 적용 언어 확인",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G38",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>읽기 연습 · 첨부 메뉴와 적용 언어 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-originality.jpg\" alt=\"읽기 연습 · 첨부 메뉴와 적용 언어 확인\" data-modal-src=\"../assets/yale/actual/classroom-yale-originality.jpg\" data-modal-title=\"읽기 연습 · 첨부 메뉴와 적용 언어 확인\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">읽기 연습 첨부 위치를 확인하고 언어·수준에 맞게 적용합니다.</p>",
+    "notes": "한국어 독서 자료에 자동 적용된다는 뜻은 아닙니다. 이번 화면은 첨부 메뉴 확인이며 학생의 녹음 결과는 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "시연 수업 과제 열기",
+        "url": "https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all"
       }
     ]
   },
   {
     "title": "화상 수업도 학교 계정에서",
-    "section": "구글 화상 수업",
+    "section": "구글 에듀케이션 플러스",
     "guide": "G38",
     "layout": "actual-slide",
     "html": "<div class=\"eyebrow\">구글 화상 수업 · 실제 화면</div><h1>화상 수업도 학교 계정에서</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-meet-entry.jpg\" alt=\"화상 수업도 학교 계정에서\" data-modal-src=\"../assets/yale/actual/google-meet-entry.jpg\" data-modal-title=\"화상 수업도 학교 계정에서\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">수업에 사용할 회의의 시작 경로와 계정별 제공 범위를 확인합니다.</p>",
@@ -452,11 +773,81 @@ window.DECK = [
     ]
   },
   {
+    "title": "화상 수업의 추가 도구 한눈에 보기",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G38",
+    "layout": "actual-slide narrow-shot",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>화상 수업의 추가 도구 한눈에 보기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/meet-tools-panel.jpg\" alt=\"화상 수업의 추가 도구 한눈에 보기\" data-modal-src=\"../assets/yale/actual/meet-tools-panel.jpg\" data-modal-title=\"화상 수업의 추가 도구 한눈에 보기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">현재 학교 계정에서 실제로 표시되는 회의 도구 목록입니다.</p>",
+    "notes": "현재 학교 계정에서 실제로 표시되는 회의 도구 목록입니다.",
+    "liveLinks": [
+      {
+        "label": "화상 수업 열기",
+        "url": "https://meet.google.com/home"
+      }
+    ]
+  },
+  {
+    "title": "소그룹 채팅방 · 두 모둠의 토론을 나누어 진행",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G54",
+    "layout": "meet-detail",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>소그룹 채팅방 · 두 모둠의 토론을 나누어 진행</h1><div class=\"meet-detail-grid\"><figure><div class=\"meet-crop \"><img src=\"../assets/yale/actual/meet-breakout.jpg\" alt=\"소그룹 채팅방\" data-modal-src=\"../assets/yale/actual/meet-breakout.jpg\" data-modal-title=\"소그룹 채팅방\"></div><figcaption>실제 설정 화면 · 눌러서 확대</figcaption></figure><div><ol><li>회의 도구에서 소그룹을 엽니다</li><li>방 수와 참여자 배정을 정합니다</li><li>열고 토론 후 기본 통화로 모읍니다</li></ol><p class=\"meet-context\">가상 명단 배정 전 설정 화면입니다. 예일여고 독서 토론의 찬성·반대 근거를 두 방에서 준비하는 제안입니다.</p></div></div>",
+    "notes": "가상 명단 배정 전 설정 화면입니다. 예일여고 독서 토론의 찬성·반대 근거를 두 방에서 준비하는 제안입니다.",
+    "liveLinks": [
+      {
+        "label": "화상 수업 열기",
+        "url": "https://meet.google.com/home"
+      }
+    ]
+  },
+  {
+    "title": "수업 중 설문 · 독서 토론의 판단을 짧게 확인",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G55",
+    "layout": "meet-detail",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>수업 중 설문 · 독서 토론의 판단을 짧게 확인</h1><div class=\"meet-detail-grid\"><figure><div class=\"meet-crop full-meet\"><img src=\"../assets/yale/actual/meet-poll-full.jpg\" alt=\"수업 중 설문\" data-modal-src=\"../assets/yale/actual/meet-poll-full.jpg\" data-modal-title=\"수업 중 설문\"></div><figcaption>실제 설정 화면 · 눌러서 확대</figcaption></figure><div><ol><li>회의 도구에서 설문을 엽니다</li><li>한국어 질문과 보기를 씁니다</li><li>저장 후 수업에서 게시합니다</li></ol><p class=\"meet-context\">예일여고 독서 질문을 저장한 미게시 초안입니다. 응답 결과가 없는 한 명 시연이며 회의는 종료했습니다.</p></div></div>",
+    "notes": "예일여고 독서 질문을 저장한 미게시 초안입니다. 응답 결과가 없는 한 명 시연이며 회의는 종료했습니다.",
+    "liveLinks": [
+      {
+        "label": "화상 수업 열기",
+        "url": "https://meet.google.com/home"
+      }
+    ]
+  },
+  {
+    "title": "질문과 답변 · 공통 질문을 모아 설명하기",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G56",
+    "layout": "meet-detail",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>질문과 답변 · 공통 질문을 모아 설명하기</h1><div class=\"meet-detail-grid\"><figure><div class=\"meet-crop full-meet\"><img src=\"../assets/yale/actual/meet-questions-full.jpg\" alt=\"질문과 답변\" data-modal-src=\"../assets/yale/actual/meet-questions-full.jpg\" data-modal-title=\"질문과 답변\"></div><figcaption>실제 설정 화면 · 눌러서 확대</figcaption></figure><div><ol><li>회의 도구에서 질문을 엽니다</li><li>사용 설정을 확인합니다</li><li>질문을 모아 답변합니다</li></ol><p class=\"meet-context\">실제 사용 전 안내 화면입니다. 과학 포스터 발표의 추가 설명 질문을 모으는 교사용 제안입니다.</p></div></div>",
+    "notes": "실제 사용 전 안내 화면입니다. 과학 포스터 발표의 추가 설명 질문을 모으는 교사용 제안입니다.",
+    "liveLinks": [
+      {
+        "label": "화상 수업 열기",
+        "url": "https://meet.google.com/home"
+      }
+    ]
+  },
+  {
+    "title": "화상 수업 녹화 · 설명 영상을 남기는 설정 확인",
+    "section": "구글 에듀케이션 플러스",
+    "guide": "G57",
+    "layout": "meet-detail",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스 · 실제 화면</div><h1>화상 수업 녹화 · 설명 영상을 남기는 설정 확인</h1><div class=\"meet-detail-grid\"><figure><div class=\"meet-crop full-meet\"><img src=\"../assets/yale/actual/meet-record-full.jpg\" alt=\"화상 수업 녹화\" data-modal-src=\"../assets/yale/actual/meet-record-full.jpg\" data-modal-title=\"화상 수업 녹화\"></div><figcaption>실제 설정 화면 · 눌러서 확대</figcaption></figure><div><ol><li>회의 도구에서 녹화를 엽니다</li><li>저장 위치·언어를 확인합니다</li><li>동의와 공개 범위를 확인합니다</li></ol><p class=\"meet-context\">녹화 시작 전 설정 화면만 확인했습니다. 녹화 파일과 참여자 기록은 생성하지 않았습니다.</p></div></div>",
+    "notes": "녹화 시작 전 설정 화면만 확인했습니다. 녹화 파일과 참여자 기록은 생성하지 않았습니다.",
+    "liveLinks": [
+      {
+        "label": "화상 수업 열기",
+        "url": "https://meet.google.com/home"
+      }
+    ]
+  },
+  {
     "title": "플러스 기능을 내 수업에 고르기",
     "section": "구글 에듀케이션 플러스",
     "guide": "G38",
     "layout": "",
-    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스</div><h1>플러스 기능을 내 수업에 고르기</h1><ul class=\"yale-list\"><li>과학 포스터: 연습세트 → 영상 질문 → 원본성 점검</li><li>독서·진로: 읽기 자료 준비 → 질문·활동지 → 교사 수정</li><li>동료 협업: 검토한 자료를 내 수업에 적용하고 공유 범위 확인</li></ul><p class=\"takeaway\">부가기능·읽기 연습·화상 수업의 상세 적용 범위는 교재에서 봅니다.</p>",
+    "html": "<div class=\"eyebrow\">구글 에듀케이션 플러스</div><h1>플러스 기능을 내 수업에 고르기</h1><ul class=\"yale-list\"><li>과학 포스터: 연습세트 → 영상 질문 → 원본성 점검</li><li>독서·진로: 읽기 자료 준비 → 질문·활동지 → 교사 수정</li><li>동료 협업: 검토한 자료를 내 수업에 적용하고 공유 범위 확인</li></ul><p class=\"takeaway\">다음은 클래스룸 제미나이, 이어서 제미나이 노트북의 예일여고 사례입니다.</p>",
     "notes": "부가기능·읽기 연습·화상 수업의 상세 적용 범위는 교재에서 봅니다.",
     "liveLinks": [
       {
@@ -467,7 +858,7 @@ window.DECK = [
   },
   {
     "title": "예일여고의 실제 활동에서 출발",
-    "section": "14:45–14:55 · 학교 맥락",
+    "section": "예일여고 수업 맥락",
     "guide": "G15",
     "layout": "",
     "html": "<div class=\"eyebrow\">14:45–14:55 · 학교 맥락</div><h1>예일여고의 실제 활동에서 출발</h1><ul class=\"yale-list\"><li>책읽수다: 모둠 독서 · 북브릿지: 진로·전공 연계 독서</li><li>과학중점과정: 탐구·과제 연구·포스터·발표·질의응답</li><li>진로 교육: 꿈씨앗 → 꿈새싹 → 꿈나무 → 꿈열매 → 꿈추수</li></ul><p class=\"takeaway\">이후 시간 배분·질문·활동지는 교사용 제안이며 학교 공식 평가 규정이 아닙니다.</p>",
@@ -476,20 +867,6 @@ window.DECK = [
       {
         "label": "연수 패들렛",
         "url": "https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l"
-      }
-    ]
-  },
-  {
-    "title": "노트북은 선택한 자료에서 답합니다",
-    "section": "제미나이 노트북",
-    "guide": "G16",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">제미나이 노트북 · 실제 화면</div><h1>노트북은 선택한 자료에서 답합니다</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" alt=\"노트북은 선택한 자료에서 답합니다\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" data-modal-title=\"노트북은 선택한 자료에서 답합니다\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">출처 한 개는 학교 활동 발췌·요약 자료입니다. 원본 전문과 구분합니다.</p>",
-    "notes": "출처 한 개는 학교 활동 발췌·요약 자료입니다. 원본 전문과 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
       }
     ]
   },
@@ -508,6 +885,20 @@ window.DECK = [
     ]
   },
   {
+    "title": "독서 계획 생성과 교사 수정",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">클래스룸 제미나이 · 실제 화면</div><h1>독서 계획 생성과 교사 수정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-reading-plan.jpg\" alt=\"독서 계획 생성과 교사 수정\" data-modal-src=\"../assets/yale/actual/classroom-yale-reading-plan.jpg\" data-modal-title=\"독서 계획 생성과 교사 수정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">스무 분 합계와 읽기 자료 빈칸을 확인합니다.</p>",
+    "notes": "스무 분 합계와 읽기 자료 빈칸을 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "수업 계획 도구 열기",
+        "url": "https://classroom.google.com/ai/lp"
+      }
+    ]
+  },
+  {
     "title": "예일여고 독서 수업 초안 수정",
     "section": "클래스룸 제미나이",
     "guide": "G23",
@@ -522,8 +913,260 @@ window.DECK = [
     ]
   },
   {
+    "title": "과학 질문 세 개 만들기",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">클래스룸 제미나이 · 실제 화면</div><h1>과학 질문 세 개 만들기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-science-quiz.jpg\" alt=\"과학 질문 세 개 만들기\" data-modal-src=\"../assets/yale/actual/classroom-yale-science-quiz.jpg\" data-modal-title=\"과학 질문 세 개 만들기\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">가상 실험의 변인과 문항의 타당성을 검토합니다.</p>",
+    "notes": "가상 실험의 변인과 문항의 타당성을 검토합니다.",
+    "liveLinks": [
+      {
+        "label": "퀴즈 생성 도구 열기",
+        "url": "https://classroom.google.com/ai/qg"
+      }
+    ]
+  },
+  {
+    "title": "과학 포스터 기준표 초안",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">클래스룸 제미나이 · 실제 화면</div><h1>과학 포스터 기준표 초안</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-rubric.jpg\" alt=\"과학 포스터 기준표 초안\" data-modal-src=\"../assets/yale/actual/classroom-yale-rubric.jpg\" data-modal-title=\"과학 포스터 기준표 초안\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">회의 등 부자연스러운 수준명과 완벽 등의 표현을 교사가 고칩니다.</p>",
+    "notes": "회의 등 부자연스러운 수준명과 완벽 등의 표현을 교사가 고칩니다.",
+    "liveLinks": [
+      {
+        "label": "기준표 도구 열기",
+        "url": "https://classroom.google.com/ai/rg"
+      }
+    ]
+  },
+  {
+    "title": "사물인터넷과 과학 탐구 연결",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">클래스룸 제미나이 · 실제 화면</div><h1>사물인터넷과 과학 탐구 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-iot-project.jpg\" alt=\"사물인터넷과 과학 탐구 연결\" data-modal-src=\"../assets/yale/actual/classroom-yale-iot-project.jpg\" data-modal-title=\"사물인터넷과 과학 탐구 연결\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">한국어 가상 설계이며 실제 측정 성과와 구분합니다.</p>",
+    "notes": "한국어 가상 설계이며 실제 측정 성과와 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "프로젝트 도구 열기",
+        "url": "https://classroom.google.com/ai/pa"
+      }
+    ]
+  },
+  {
+    "title": "진로 활동 여섯 가지 중 선택",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">클래스룸 제미나이 · 실제 화면</div><h1>진로 활동 여섯 가지 중 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-career-choice.jpg\" alt=\"진로 활동 여섯 가지 중 선택\" data-modal-src=\"../assets/yale/actual/classroom-yale-career-choice.jpg\" data-modal-title=\"진로 활동 여섯 가지 중 선택\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">구글 문서·프레젠테이션·종이 활동지로 실행하는 교사용 제안입니다.</p>",
+    "notes": "생성된 신교유형 등의 오탈자는 신규 직업 등 자연스러운 한국어로 교사가 수정합니다. 개인정보를 넣지 않습니다.",
+    "liveLinks": [
+      {
+        "label": "선택판 도구 열기",
+        "url": "https://classroom.google.com/ai/chb"
+      }
+    ]
+  },
+  {
+    "title": "생성 도구의 공통 점검",
+    "section": "클래스룸 제미나이",
+    "guide": "G22",
+    "layout": "",
+    "html": "<div class=\"eyebrow\">클래스룸</div><h1>생성 도구의 공통 점검</h1><ul class=\"yale-list\"><li>학년은 도구가 기대하는 입력 형식을 확인합니다.</li><li>교사용 설명까지 한국어로 요청합니다.</li><li>표현·시간·개념을 확인한 뒤 내보냅니다.</li></ul><p class=\"takeaway\">원문이 없으면 답안과 근거를 새로 만들지 않도록 명시합니다.</p>",
+    "notes": "원문이 없으면 답안과 근거를 새로 만들지 않도록 명시합니다.",
+    "liveLinks": [
+      {
+        "label": "생성 도구 메뉴 열기",
+        "url": "https://classroom.google.com/ai"
+      }
+    ]
+  },
+  {
+    "title": "한국어 수업 계획을 문서로 이어가기",
+    "section": "클래스룸 제미나이",
+    "guide": "G23",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 문서 · 실제 화면</div><h1>한국어 수업 계획을 문서로 이어가기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-docs-yale-korean.jpg\" alt=\"한국어 수업 계획을 문서로 이어가기\" data-modal-src=\"../assets/yale/actual/google-docs-yale-korean.jpg\" data-modal-title=\"한국어 수업 계획을 문서로 이어가기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">문서로 내보낸 계획을 도우미와 함께 다듬고 교사가 사실·제안을 재검토합니다.</p>",
+    "notes": "현재 계정에서 확인한 문서 도우미입니다. 플러스 구독만으로 모든 생성 기능이 제공된다고 단정하지 않습니다. 도우미가 초안을 학교 자료의 사실로 다시 묶은 부분은 교사가 수정해야 합니다.",
+    "liveLinks": [
+      {
+        "label": "독서 수업 문서 열기",
+        "url": "https://docs.google.com/document/d/1waWVVArFBwe6hUjn0R87w-maNKNn883SxLL5y7wCexQ/edit"
+      }
+    ]
+  },
+  {
+    "title": "드라이브에서 수업 도구로 이어가기",
+    "section": "클래스룸 제미나이",
+    "guide": "G39",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 수업 도구 · 실제 화면</div><h1>드라이브에서 수업 도구로 이어가기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-workspace-create.jpg\" alt=\"드라이브에서 수업 도구로 이어가기\" data-modal-src=\"../assets/yale/actual/google-workspace-create.jpg\" data-modal-title=\"드라이브에서 수업 도구로 이어가기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">문서·자료표·발표·설문의 제작 메뉴를 실제 계정에서 확인합니다.</p>",
+    "notes": "문서·자료표·발표·설문의 제작 메뉴를 실제 계정에서 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "구글 드라이브 열기",
+        "url": "https://drive.google.com/drive/u/0/home"
+      }
+    ]
+  },
+  {
+    "title": "과학 포스터용 가상 탐구 자료표",
+    "section": "클래스룸 제미나이",
+    "guide": "G39",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 수업 도구 · 실제 화면</div><h1>과학 포스터용 가상 탐구 자료표</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-sheets-yale-korean.jpg\" alt=\"과학 포스터용 가상 탐구 자료표\" data-modal-src=\"../assets/yale/actual/google-sheets-yale-korean.jpg\" data-modal-title=\"과학 포스터용 가상 탐구 자료표\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">모둠별 조건·성장량·단위를 정리하고 실제 측정값과 구분합니다.</p>",
+    "notes": "모둠별 조건·성장량·단위를 정리하고 실제 측정값과 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "가상 탐구 자료표 열기",
+        "url": "https://docs.google.com/spreadsheets/d/1wFzNts8XQyUlPvyieUr-GQUfSvJ2iGLAHZX0hMmJ7h0/edit#gid=0"
+      }
+    ]
+  },
+  {
+    "title": "한국어 과학 포스터 점검 초안",
+    "section": "클래스룸 제미나이",
+    "guide": "G39",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 수업 도구 · 실제 화면</div><h1>한국어 과학 포스터 점검 초안</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-slides-yale-korean.jpg\" alt=\"한국어 과학 포스터 점검 초안\" data-modal-src=\"../assets/yale/actual/google-slides-yale-korean.jpg\" data-modal-title=\"한국어 과학 포스터 점검 초안\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">생성된 점검표의 탐구 개념·출처 표현도 교사가 검토합니다.</p>",
+    "notes": "변인 간 상관관계 타당성 확보는 통제 조건의 일관성 확인으로, 이론적 가상 자료는 가상 자료 구분 표기로 보완합니다. 생성된 초안이며 학교 공식 기준이 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "과학 포스터 초안 열기",
+        "url": "https://docs.google.com/presentation/d/1trGuCFCKPSNnTNMgvUQeUYrHaMp8pBcdZ7hoQb2xjy4/edit"
+      }
+    ]
+  },
+  {
+    "title": "한국어 독서 성찰 설문 세 문항",
+    "section": "클래스룸 제미나이",
+    "guide": "G39",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">구글 수업 도구 · 실제 화면</div><h1>한국어 독서 성찰 설문 세 문항</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-forms-yale-korean.jpg\" alt=\"한국어 독서 성찰 설문 세 문항\" data-modal-src=\"../assets/yale/actual/google-forms-yale-korean.jpg\" data-modal-title=\"한국어 독서 성찰 설문 세 문항\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">근거 찾기·주장과 근거·다음 진로 질문을 개인정보 없이 구성했습니다.</p>",
+    "notes": "교사용 제안으로 만든 비공개 설문 초안입니다. 학생에게 게시하지 않았고 실제 응답을 수집하지 않았습니다.",
+    "liveLinks": [
+      {
+        "label": "독서 성찰 설문 편집 열기",
+        "url": "https://docs.google.com/forms/d/1G15kRbp6uPMwKW3c9t2AZ98yalQeuJT71GXsa7In06A/edit"
+      }
+    ]
+  },
+  {
+    "title": "노트북은 선택한 자료에서 답합니다",
+    "section": "제미나이 노트북",
+    "guide": "G16",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">제미나이 노트북 · 실제 화면</div><h1>노트북은 선택한 자료에서 답합니다</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" alt=\"노트북은 선택한 자료에서 답합니다\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" data-modal-title=\"노트북은 선택한 자료에서 답합니다\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">출처 한 개는 학교 활동 발췌·요약 자료입니다. 원본 전문과 구분합니다.</p>",
+    "notes": "출처 한 개는 학교 활동 발췌·요약 자료입니다. 원본 전문과 구분합니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "자료 추가의 실제 입력",
+    "section": "제미나이 노트북",
+    "guide": "G17",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">노트북 · 실제 화면</div><h1>자료 추가의 실제 입력</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-source-input.jpg\" alt=\"자료 추가의 실제 입력\" data-modal-src=\"../assets/yale/actual/notebook-yale-source-input.jpg\" data-modal-title=\"자료 추가의 실제 입력\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">학교 활동을 요약한 시연 자료이며 원본 전문이 아닙니다.</p>",
+    "notes": "학교 활동을 요약한 시연 자료이며 원본 전문이 아닙니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "한국어로 다시 정리한 학교 활동",
+    "section": "제미나이 노트북",
+    "guide": "G18",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">노트북 · 실제 화면</div><h1>한국어로 다시 정리한 학교 활동</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" alt=\"한국어로 다시 정리한 학교 활동\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" data-modal-title=\"한국어로 다시 정리한 학교 활동\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">대괄호 출처 표시가 실제 인용 버튼인지도 확인합니다.</p>",
+    "notes": "대괄호 출처 표시가 실제 인용 버튼인지도 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "출처 원문과 다시 대조",
+    "section": "제미나이 노트북",
+    "guide": "G19",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">노트북 · 실제 화면</div><h1>출처 원문과 다시 대조</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-source.jpg\" alt=\"출처 원문과 다시 대조\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-source.jpg\" data-modal-title=\"출처 원문과 다시 대조\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">독서 활동 관계를 확인하고 중요한 판단은 학교 원본과 대조합니다.</p>",
+    "notes": "독서 활동 관계를 확인하고 중요한 판단은 학교 원본과 대조합니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "학교 활동 퀴즈로 자료 읽기",
+    "section": "제미나이 노트북",
+    "guide": "G20",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">노트북 · 실제 화면</div><h1>학교 활동 퀴즈로 자료 읽기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-quiz.jpg\" alt=\"학교 활동 퀴즈로 자료 읽기\" data-modal-src=\"../assets/yale/actual/notebook-yale-quiz.jpg\" data-modal-title=\"학교 활동 퀴즈로 자료 읽기\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">정답이 계획에 있는지 확인하고 공식 평가로 바로 사용하지 않습니다.</p>",
+    "notes": "정답이 계획에 있는지 확인하고 공식 평가로 바로 사용하지 않습니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "슬라이드 결과도 교사가 검토",
+    "section": "제미나이 노트북",
+    "guide": "G20",
+    "layout": "actual-slide",
+    "html": "<div class=\"eyebrow\">노트북 · 실제 화면</div><h1>슬라이드 결과도 교사가 검토</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-slide-proposal.jpg\" alt=\"슬라이드 결과도 교사가 검토\" data-modal-src=\"../assets/yale/actual/notebook-yale-slide-proposal.jpg\" data-modal-title=\"슬라이드 결과도 교사가 검토\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">계획과 수업 제안을 이미 수행한 성과로 서술하지 않습니다.</p>",
+    "notes": "계획과 수업 제안을 이미 수행한 성과로 서술하지 않습니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "노트북 검토에서 발견한 점",
+    "section": "제미나이 노트북",
+    "guide": "G19",
+    "layout": "",
+    "html": "<div class=\"eyebrow\">노트북</div><h1>노트북 검토에서 발견한 점</h1><ul class=\"yale-list\"><li>첫 결과는 북브릿지와 심층 쟁점 토론을 같은 활동처럼 묶었습니다.</li><li>진로 단계에 세부 활동을 임의로 배정한 그림도 검토 대상입니다.</li><li>대괄호 출처 표시만으로 클릭 가능한 인용이라고 설명하지 않습니다.</li></ul><p class=\"takeaway\">활동의 관계와 인용 형식을 교사가 직접 확인합니다.</p>",
+    "notes": "활동의 관계와 인용 형식을 교사가 직접 확인합니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
+    "title": "노트북을 내 수업에서 따라 하기",
+    "section": "제미나이 노트북",
+    "guide": "G21",
+    "layout": "",
+    "html": "<div class=\"eyebrow\">노트북</div><h1>노트북을 내 수업에서 따라 하기</h1><ul class=\"yale-list\"><li>허용된 읽기 자료를 추가하고 내용을 확인합니다.</li><li>자료의 사실과 교사용 제안을 분리하여 요청합니다.</li><li>표·퀴즈·슬라이드의 문장을 원문과 대조합니다.</li></ul><p class=\"takeaway\">학생 개인정보와 원문 사용 권한을 확인하고 내 노트북을 만듭니다.</p>",
+    "notes": "학생 개인정보와 원문 사용 권한을 확인하고 내 노트북을 만듭니다.",
+    "liveLinks": [
+      {
+        "label": "예일여고 노트북 열기",
+        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
+      }
+    ]
+  },
+  {
     "title": "생성과 검토를 함께 배우기",
-    "section": "14:55–15:00 · 실습 준비",
+    "section": "센지피티",
     "guide": "G24",
     "layout": "",
     "html": "<div class=\"eyebrow\">14:55–15:00 · 실습 준비</div><h1>생성과 검토를 함께 배우기</h1><ul class=\"yale-list\"><li>노트북: 답변과 출처를 대조합니다.</li><li>클래스룸 제미나이: 입력 조건과 생성 결과를 확인합니다.</li><li>센지피티: 초안 → 검토·수정 → 역할 저장 → 재사용</li></ul><p class=\"takeaway\">이제 센지피티에서 내 수업자료 하나를 끝까지 만들어 봅니다.</p>",
@@ -565,7 +1208,7 @@ window.DECK = [
   },
   {
     "title": "실습 하나 · 주제와 조건 정하기",
-    "section": "15:00–15:15 · 초안 생성",
+    "section": "센지피티",
     "guide": "G25",
     "layout": "",
     "html": "<div class=\"eyebrow\">15:00–15:15 · 초안 생성</div><h1>실습 하나 · 주제와 조건 정하기</h1><ul class=\"yale-list\"><li>대상 학년·교과·수업 시간을 정합니다.</li><li>원문은 교사가 준비하고 개인정보는 제외합니다.</li><li>독서·과학 포스터·진로 기록 중 하나를 선택합니다.</li></ul><p class=\"takeaway\">복사 문구에서 내 수업에 맞게 바꿀 부분을 먼저 표시합니다.</p>",
@@ -607,7 +1250,7 @@ window.DECK = [
   },
   {
     "title": "실습 둘 · 한 문장을 교사가 고치기",
-    "section": "15:15–15:25 · 검토와 수정",
+    "section": "센지피티",
     "guide": "G26",
     "layout": "",
     "html": "<div class=\"eyebrow\">15:15–15:25 · 검토와 수정</div><h1>실습 둘 · 한 문장을 교사가 고치기</h1><ul class=\"yale-list\"><li>유지: 자료에 있는 학교 활동 맥락</li><li>수정: 참여자 명단을 삭제하고 원문 근거 위치를 추가</li><li>보류: 원문·배점·실제 성취를 확인해야 하는 문장</li></ul><p class=\"takeaway\">수정 전 → 수정 후 → 이유를 기록합니다. 문장 길이보다 근거를 확인합니다.</p>",
@@ -635,7 +1278,7 @@ window.DECK = [
   },
   {
     "title": "실습 셋 · 반복할 검토 기준 저장",
-    "section": "15:25–15:40 · 역할 저장",
+    "section": "센지피티",
     "guide": "G27",
     "layout": "",
     "html": "<div class=\"eyebrow\">15:25–15:40 · 역할 저장</div><h1>실습 셋 · 반복할 검토 기준 저장</h1><ul class=\"yale-list\"><li>역할: 수업자료 검토 도우미</li><li>입력: 학년·주제·시간·원문 여부</li><li>출력: 목표·활동·질문·활동지·교사 확인 항목</li></ul><p class=\"takeaway\">내용을 자동 승인하는 역할이 아니라 교사의 확인을 돕는 역할을 저장합니다.</p>",
@@ -691,7 +1334,7 @@ window.DECK = [
   },
   {
     "title": "실습 넷 · 진로 주제로 재사용",
-    "section": "15:40–15:50 · 재사용",
+    "section": "센지피티",
     "guide": "G29",
     "layout": "actual-slide",
     "html": "<div class=\"eyebrow\">15:40–15:50 · 재사용 · 실제 화면</div><h1>실습 넷 · 진로 주제로 재사용</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sengpt-yale-career-korean.jpg\" alt=\"실습 넷 · 진로 주제로 재사용\" data-modal-src=\"../assets/yale/actual/sengpt-yale-career-korean.jpg\" data-modal-title=\"실습 넷 · 진로 주제로 재사용\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">다른 주제로 바뀌어도 사실·제안·확인 필요의 구분을 유지합니다.</p>",
@@ -733,7 +1376,7 @@ window.DECK = [
   },
   {
     "title": "내 수업자료 하나를 마무리하기",
-    "section": "실습 정리",
+    "section": "센지피티",
     "guide": "G31",
     "layout": "",
     "html": "<div class=\"eyebrow\">실습 정리</div><h1>내 수업자료 하나를 마무리하기</h1><ul class=\"yale-list\"><li>초안 한 개와 교사가 고친 문장 한 개</li><li>저장한 역할 또는 반복할 요청 문구</li><li>재사용 결과와 남은 확인 사항</li></ul><p class=\"takeaway\">완료 점검표에 기록하고 짝과 결과를 비교합니다.</p>",
@@ -747,7 +1390,7 @@ window.DECK = [
   },
   {
     "title": "결과와 수정 이유를 함께 공유",
-    "section": "15:50–16:00 · 공유",
+    "section": "센지피티",
     "guide": "G32",
     "layout": "",
     "html": "<div class=\"eyebrow\">15:50–16:00 · 공유</div><h1>결과와 수정 이유를 함께 공유</h1><ul class=\"yale-list\"><li>수정한 한 문장과 이유를 말합니다.</li><li>학생 이름·초대 코드·개인 대화를 공개하지 않습니다.</li><li>검토한 결과를 예일여고 연수 패들렛에 공유합니다.</li></ul><p class=\"takeaway\">강사는 교사의 판단이 추가된 지점을 함께 확인합니다.</p>",
@@ -761,7 +1404,7 @@ window.DECK = [
   },
   {
     "title": "질문과 다음 수업 적용",
-    "section": "질의응답",
+    "section": "센지피티",
     "guide": "G32",
     "layout": "",
     "html": "<div class=\"eyebrow\">질의응답</div><h1>질문과 다음 수업 적용</h1><ul class=\"yale-list\"><li>안 보이는 기능은 권한·라이선스를 확인합니다.</li><li>생성 결과는 교사가 수정하여 학생에게 제공합니다.</li><li>다음 수업에 적용할 기능과 검토 조건을 정합니다.</li></ul><p class=\"takeaway\">발표자료·교재·강사 노트를 같은 주소에서 다시 볼 수 있습니다.</p>",
@@ -775,7 +1418,7 @@ window.DECK = [
   },
   {
     "title": "개인정보와 학생 자료 점검",
-    "section": "개인정보",
+    "section": "센지피티",
     "guide": "G33",
     "layout": "",
     "html": "<div class=\"eyebrow\">개인정보</div><h1>개인정보와 학생 자료 점검</h1><ul class=\"yale-list\"><li>학생의 실명·연락처·성적·상담·건강 정보를 제외합니다.</li><li>공개물에는 학교 계획의 발췌·요약 맥락만 사용합니다.</li><li>사실·출처·공유 대상을 확인합니다.</li></ul><p class=\"takeaway\">시연 초안과 실제 학생에게 할당한 과제를 구분합니다.</p>",
@@ -784,384 +1427,6 @@ window.DECK = [
       {
         "label": "참가자 교재 열기",
         "url": "../guide/index.html#G33"
-      }
-    ]
-  },
-  {
-    "title": "상세 화면 · 연수 후 다시 보기",
-    "section": "상세 참고",
-    "guide": "G01",
-    "layout": "",
-    "html": "<div class=\"eyebrow\">상세 참고</div><h1>상세 화면 · 연수 후 다시 보기</h1><ul class=\"yale-list\"><li>센스쿨의 설정과 수업도구</li><li>노트북의 자료·질문·스튜디오</li><li>클래스룸 생성 도구와 플러스 기능</li></ul><p class=\"takeaway\">발표 중 필요한 화면만 열고 상세 절차는 교재에서 이어갑니다.</p>",
-    "notes": "발표 중 필요한 화면만 열고 상세 절차는 교재에서 이어갑니다.",
-    "liveLinks": [
-      {
-        "label": "연수 패들렛",
-        "url": "https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l"
-      }
-    ]
-  },
-  {
-    "title": "클래스 화면의 표시 설정",
-    "section": "상세 참고 · 센스쿨",
-    "guide": "G10",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 센스쿨 · 실제 화면</div><h1>클래스 화면의 표시 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-class-settings.jpg\" alt=\"클래스 화면의 표시 설정\" data-modal-src=\"../assets/yale/actual/sen-class-settings.jpg\" data-modal-title=\"클래스 화면의 표시 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">메인 화면과 클래스 표시 항목을 구분합니다.</p>",
-    "notes": "메인 화면과 클래스 표시 항목을 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "센스쿨 메뉴 열기",
-        "url": "https://senedu.kr/mainTchr.html"
-      }
-    ]
-  },
-  {
-    "title": "우리반 화면 설정",
-    "section": "상세 참고 · 센스쿨",
-    "guide": "G09",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 센스쿨 · 실제 화면</div><h1>우리반 화면 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-homeroom-settings.jpg\" alt=\"우리반 화면 설정\" data-modal-src=\"../assets/yale/actual/sen-homeroom-settings.jpg\" data-modal-title=\"우리반 화면 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">담임 관리·학생 배정과 표시 설정은 각각 다른 작업입니다.</p>",
-    "notes": "담임 관리·학생 배정과 표시 설정은 각각 다른 작업입니다.",
-    "liveLinks": [
-      {
-        "label": "센스쿨 메뉴 열기",
-        "url": "https://senedu.kr/mainTchr.html"
-      }
-    ]
-  },
-  {
-    "title": "클래스 순서 설정",
-    "section": "상세 참고 · 센스쿨",
-    "guide": "G10",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 센스쿨 · 실제 화면</div><h1>클래스 순서 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-class-order.jpg\" alt=\"클래스 순서 설정\" data-modal-src=\"../assets/yale/actual/sen-class-order.jpg\" data-modal-title=\"클래스 순서 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">표시 순서 변경과 실제 학생 이동을 구분합니다.</p>",
-    "notes": "표시 순서 변경과 실제 학생 이동을 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "센스쿨 메뉴 열기",
-        "url": "https://senedu.kr/mainTchr.html"
-      }
-    ]
-  },
-  {
-    "title": "출판사와 내 도구 설정",
-    "section": "상세 참고 · 센스쿨",
-    "guide": "G12",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 센스쿨 · 실제 화면</div><h1>출판사와 내 도구 설정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/sen-tools-settings.jpg\" alt=\"출판사와 내 도구 설정\" data-modal-src=\"../assets/yale/actual/sen-tools-settings.jpg\" data-modal-title=\"출판사와 내 도구 설정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">현재 연결 가능한 도구와 직접 추가하는 링크를 확인합니다.</p>",
-    "notes": "현재 연결 가능한 도구와 직접 추가하는 링크를 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "센스쿨 메뉴 열기",
-        "url": "https://senedu.kr/mainTchr.html"
-      }
-    ]
-  },
-  {
-    "title": "자료 추가의 실제 입력",
-    "section": "상세 참고 · 노트북",
-    "guide": "G17",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북 · 실제 화면</div><h1>자료 추가의 실제 입력</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-source-input.jpg\" alt=\"자료 추가의 실제 입력\" data-modal-src=\"../assets/yale/actual/notebook-yale-source-input.jpg\" data-modal-title=\"자료 추가의 실제 입력\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">학교 활동을 요약한 시연 자료이며 원본 전문이 아닙니다.</p>",
-    "notes": "학교 활동을 요약한 시연 자료이며 원본 전문이 아닙니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "한국어로 다시 정리한 학교 활동",
-    "section": "상세 참고 · 노트북",
-    "guide": "G18",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북 · 실제 화면</div><h1>한국어로 다시 정리한 학교 활동</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" alt=\"한국어로 다시 정리한 학교 활동\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-result.jpg\" data-modal-title=\"한국어로 다시 정리한 학교 활동\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">대괄호 출처 표시가 실제 인용 버튼인지도 확인합니다.</p>",
-    "notes": "대괄호 출처 표시가 실제 인용 버튼인지도 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "출처 원문과 다시 대조",
-    "section": "상세 참고 · 노트북",
-    "guide": "G19",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북 · 실제 화면</div><h1>출처 원문과 다시 대조</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-korean-source.jpg\" alt=\"출처 원문과 다시 대조\" data-modal-src=\"../assets/yale/actual/notebook-yale-korean-source.jpg\" data-modal-title=\"출처 원문과 다시 대조\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">독서 활동 관계를 확인하고 중요한 판단은 학교 원본과 대조합니다.</p>",
-    "notes": "독서 활동 관계를 확인하고 중요한 판단은 학교 원본과 대조합니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "학교 활동 퀴즈로 자료 읽기",
-    "section": "상세 참고 · 노트북",
-    "guide": "G20",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북 · 실제 화면</div><h1>학교 활동 퀴즈로 자료 읽기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-quiz.jpg\" alt=\"학교 활동 퀴즈로 자료 읽기\" data-modal-src=\"../assets/yale/actual/notebook-yale-quiz.jpg\" data-modal-title=\"학교 활동 퀴즈로 자료 읽기\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">정답이 계획에 있는지 확인하고 공식 평가로 바로 사용하지 않습니다.</p>",
-    "notes": "정답이 계획에 있는지 확인하고 공식 평가로 바로 사용하지 않습니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "슬라이드 결과도 교사가 검토",
-    "section": "상세 참고 · 노트북",
-    "guide": "G20",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북 · 실제 화면</div><h1>슬라이드 결과도 교사가 검토</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/notebook-yale-slide-proposal.jpg\" alt=\"슬라이드 결과도 교사가 검토\" data-modal-src=\"../assets/yale/actual/notebook-yale-slide-proposal.jpg\" data-modal-title=\"슬라이드 결과도 교사가 검토\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">계획과 수업 제안을 이미 수행한 성과로 서술하지 않습니다.</p>",
-    "notes": "계획과 수업 제안을 이미 수행한 성과로 서술하지 않습니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "노트북 검토에서 발견한 점",
-    "section": "상세 참고 · 노트북",
-    "guide": "G19",
-    "layout": "",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북</div><h1>노트북 검토에서 발견한 점</h1><ul class=\"yale-list\"><li>첫 결과는 북브릿지와 심층 쟁점 토론을 같은 활동처럼 묶었습니다.</li><li>진로 단계에 세부 활동을 임의로 배정한 그림도 검토 대상입니다.</li><li>대괄호 출처 표시만으로 클릭 가능한 인용이라고 설명하지 않습니다.</li></ul><p class=\"takeaway\">활동의 관계와 인용 형식을 교사가 직접 확인합니다.</p>",
-    "notes": "활동의 관계와 인용 형식을 교사가 직접 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "노트북을 내 수업에서 따라 하기",
-    "section": "상세 참고 · 노트북",
-    "guide": "G21",
-    "layout": "",
-    "html": "<div class=\"eyebrow\">상세 참고 · 노트북</div><h1>노트북을 내 수업에서 따라 하기</h1><ul class=\"yale-list\"><li>허용된 읽기 자료를 추가하고 내용을 확인합니다.</li><li>자료의 사실과 교사용 제안을 분리하여 요청합니다.</li><li>표·퀴즈·슬라이드의 문장을 원문과 대조합니다.</li></ul><p class=\"takeaway\">학생 개인정보와 원문 사용 권한을 확인하고 내 노트북을 만듭니다.</p>",
-    "notes": "학생 개인정보와 원문 사용 권한을 확인하고 내 노트북을 만듭니다.",
-    "liveLinks": [
-      {
-        "label": "예일여고 노트북 열기",
-        "url": "https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01"
-      }
-    ]
-  },
-  {
-    "title": "독서 계획 생성과 교사 수정",
-    "section": "상세 참고 · 클래스룸 제미나이",
-    "guide": "G23",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸 제미나이 · 실제 화면</div><h1>독서 계획 생성과 교사 수정</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-reading-plan.jpg\" alt=\"독서 계획 생성과 교사 수정\" data-modal-src=\"../assets/yale/actual/classroom-yale-reading-plan.jpg\" data-modal-title=\"독서 계획 생성과 교사 수정\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">스무 분 합계와 읽기 자료 빈칸을 확인합니다.</p>",
-    "notes": "스무 분 합계와 읽기 자료 빈칸을 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "수업 계획 도구 열기",
-        "url": "https://classroom.google.com/ai/lp"
-      }
-    ]
-  },
-  {
-    "title": "과학 질문 세 개 만들기",
-    "section": "상세 참고 · 클래스룸 제미나이",
-    "guide": "G23",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸 제미나이 · 실제 화면</div><h1>과학 질문 세 개 만들기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-science-quiz.jpg\" alt=\"과학 질문 세 개 만들기\" data-modal-src=\"../assets/yale/actual/classroom-yale-science-quiz.jpg\" data-modal-title=\"과학 질문 세 개 만들기\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">가상 실험의 변인과 문항의 타당성을 검토합니다.</p>",
-    "notes": "가상 실험의 변인과 문항의 타당성을 검토합니다.",
-    "liveLinks": [
-      {
-        "label": "퀴즈 생성 도구 열기",
-        "url": "https://classroom.google.com/ai/qg"
-      }
-    ]
-  },
-  {
-    "title": "과학 포스터 기준표 초안",
-    "section": "상세 참고 · 클래스룸 제미나이",
-    "guide": "G23",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸 제미나이 · 실제 화면</div><h1>과학 포스터 기준표 초안</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-rubric.jpg\" alt=\"과학 포스터 기준표 초안\" data-modal-src=\"../assets/yale/actual/classroom-yale-rubric.jpg\" data-modal-title=\"과학 포스터 기준표 초안\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">회의 등 부자연스러운 수준명과 완벽 등의 표현을 교사가 고칩니다.</p>",
-    "notes": "회의 등 부자연스러운 수준명과 완벽 등의 표현을 교사가 고칩니다.",
-    "liveLinks": [
-      {
-        "label": "기준표 도구 열기",
-        "url": "https://classroom.google.com/ai/rg"
-      }
-    ]
-  },
-  {
-    "title": "사물인터넷과 과학 탐구 연결",
-    "section": "상세 참고 · 클래스룸 제미나이",
-    "guide": "G23",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸 제미나이 · 실제 화면</div><h1>사물인터넷과 과학 탐구 연결</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-iot-project.jpg\" alt=\"사물인터넷과 과학 탐구 연결\" data-modal-src=\"../assets/yale/actual/classroom-yale-iot-project.jpg\" data-modal-title=\"사물인터넷과 과학 탐구 연결\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">한국어 가상 설계이며 실제 측정 성과와 구분합니다.</p>",
-    "notes": "한국어 가상 설계이며 실제 측정 성과와 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "프로젝트 도구 열기",
-        "url": "https://classroom.google.com/ai/pa"
-      }
-    ]
-  },
-  {
-    "title": "진로 활동 여섯 가지 중 선택",
-    "section": "상세 참고 · 클래스룸 제미나이",
-    "guide": "G23",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸 제미나이 · 실제 화면</div><h1>진로 활동 여섯 가지 중 선택</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-career-choice.jpg\" alt=\"진로 활동 여섯 가지 중 선택\" data-modal-src=\"../assets/yale/actual/classroom-yale-career-choice.jpg\" data-modal-title=\"진로 활동 여섯 가지 중 선택\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">구글 문서·프레젠테이션·종이 활동지로 실행하는 교사용 제안입니다.</p>",
-    "notes": "생성된 신교유형 등의 오탈자는 신규 직업 등 자연스러운 한국어로 교사가 수정합니다. 개인정보를 넣지 않습니다.",
-    "liveLinks": [
-      {
-        "label": "선택판 도구 열기",
-        "url": "https://classroom.google.com/ai/chb"
-      }
-    ]
-  },
-  {
-    "title": "생성 도구의 공통 점검",
-    "section": "상세 참고 · 클래스룸",
-    "guide": "G22",
-    "layout": "",
-    "html": "<div class=\"eyebrow\">상세 참고 · 클래스룸</div><h1>생성 도구의 공통 점검</h1><ul class=\"yale-list\"><li>학년은 도구가 기대하는 입력 형식을 확인합니다.</li><li>교사용 설명까지 한국어로 요청합니다.</li><li>표현·시간·개념을 확인한 뒤 내보냅니다.</li></ul><p class=\"takeaway\">원문이 없으면 답안과 근거를 새로 만들지 않도록 명시합니다.</p>",
-    "notes": "원문이 없으면 답안과 근거를 새로 만들지 않도록 명시합니다.",
-    "liveLinks": [
-      {
-        "label": "생성 도구 메뉴 열기",
-        "url": "https://classroom.google.com/ai"
-      }
-    ]
-  },
-  {
-    "title": "연습세트 교사 공유 메뉴",
-    "section": "상세 참고 · 플러스",
-    "guide": "G14",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 플러스 · 실제 화면</div><h1>연습세트 교사 공유 메뉴</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-sharing.jpg\" alt=\"연습세트 교사 공유 메뉴\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-sharing.jpg\" data-modal-title=\"연습세트 교사 공유 메뉴\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">교사 액세스가 꺼진 상태이며 학생 배포와 구분합니다.</p>",
-    "notes": "교사 액세스가 꺼진 상태이며 학생 배포와 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "연습세트 편집 열기",
-        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/edit"
-      }
-    ]
-  },
-  {
-    "title": "한국어 답안으로 학생 관점 확인",
-    "section": "상세 참고 · 플러스",
-    "guide": "G14",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 플러스 · 실제 화면</div><h1>한국어 답안으로 학생 관점 확인</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-student.jpg\" alt=\"한국어 답안으로 학생 관점 확인\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-student.jpg\" data-modal-title=\"한국어 답안으로 학생 관점 확인\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">물의 양을 입력한 뒤 오답·힌트·재시도를 확인합니다.</p>",
-    "notes": "물의 양을 입력한 뒤 오답·힌트·재시도를 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "학생 미리보기 열기",
-        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview"
-      }
-    ]
-  },
-  {
-    "title": "학생에게 보이는 오답 안내",
-    "section": "상세 참고 · 플러스",
-    "guide": "G14",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 플러스 · 실제 화면</div><h1>학생에게 보이는 오답 안내</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-practice-feedback.jpg\" alt=\"학생에게 보이는 오답 안내\" data-modal-src=\"../assets/yale/actual/classroom-yale-practice-feedback.jpg\" data-modal-title=\"학생에게 보이는 오답 안내\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">다시 시도 표시와 정답 기준을 교사가 미리 점검합니다.</p>",
-    "notes": "다시 시도 표시와 정답 기준을 교사가 미리 점검합니다.",
-    "liveLinks": [
-      {
-        "label": "학생 미리보기 열기",
-        "url": "https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview"
-      }
-    ]
-  },
-  {
-    "title": "원본성과 부가기능의 실제 위치",
-    "section": "상세 참고 · 플러스",
-    "guide": "G38",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 플러스 · 실제 화면</div><h1>원본성과 부가기능의 실제 위치</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/classroom-yale-originality.jpg\" alt=\"원본성과 부가기능의 실제 위치\" data-modal-src=\"../assets/yale/actual/classroom-yale-originality.jpg\" data-modal-title=\"원본성과 부가기능의 실제 위치\"><figcaption>2026. 10. 04. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">설정 위치와 실제 보고서 실행·추가 설치를 구분합니다.</p>",
-    "notes": "설정 위치와 실제 보고서 실행·추가 설치를 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "시연 수업 과제 열기",
-        "url": "https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all"
-      }
-    ]
-  },
-  {
-    "title": "읽기 연습·화상 수업의 적용 범위",
-    "section": "상세 참고 · 플러스",
-    "guide": "G38",
-    "layout": "",
-    "html": "<div class=\"eyebrow\">상세 참고 · 플러스</div><h1>읽기 연습·화상 수업의 적용 범위</h1><ul class=\"yale-list\"><li>과제 편집기의 읽기 연습 첨부 메뉴를 확인합니다.</li><li>녹화·설문·소그룹은 계정·관리자 설정을 확인합니다.</li><li>자료의 언어·난이도·저작권을 수업 목표에 맞게 판단합니다.</li></ul><p class=\"takeaway\">이번 한국어 사례에는 외국어 책 본문과 실제 학생 녹음·회의 기록을 넣지 않았습니다.</p>",
-    "notes": "이번 한국어 사례에는 외국어 책 본문과 실제 학생 녹음·회의 기록을 넣지 않았습니다.",
-    "liveLinks": [
-      {
-        "label": "화상 수업 열기",
-        "url": "https://meet.google.com/home"
-      }
-    ]
-  },
-  {
-    "title": "드라이브에서 수업 도구로 이어가기",
-    "section": "상세 참고 · 구글 수업 도구",
-    "guide": "G39",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 구글 수업 도구 · 실제 화면</div><h1>드라이브에서 수업 도구로 이어가기</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-workspace-create.jpg\" alt=\"드라이브에서 수업 도구로 이어가기\" data-modal-src=\"../assets/yale/actual/google-workspace-create.jpg\" data-modal-title=\"드라이브에서 수업 도구로 이어가기\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">문서·자료표·발표·설문의 제작 메뉴를 실제 계정에서 확인합니다.</p>",
-    "notes": "문서·자료표·발표·설문의 제작 메뉴를 실제 계정에서 확인합니다.",
-    "liveLinks": [
-      {
-        "label": "구글 드라이브 열기",
-        "url": "https://drive.google.com/drive/u/0/home"
-      }
-    ]
-  },
-  {
-    "title": "과학 포스터용 가상 탐구 자료표",
-    "section": "상세 참고 · 구글 수업 도구",
-    "guide": "G39",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 구글 수업 도구 · 실제 화면</div><h1>과학 포스터용 가상 탐구 자료표</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-sheets-yale-korean.jpg\" alt=\"과학 포스터용 가상 탐구 자료표\" data-modal-src=\"../assets/yale/actual/google-sheets-yale-korean.jpg\" data-modal-title=\"과학 포스터용 가상 탐구 자료표\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">모둠별 조건·성장량·단위를 정리하고 실제 측정값과 구분합니다.</p>",
-    "notes": "모둠별 조건·성장량·단위를 정리하고 실제 측정값과 구분합니다.",
-    "liveLinks": [
-      {
-        "label": "가상 탐구 자료표 열기",
-        "url": "https://docs.google.com/spreadsheets/d/1wFzNts8XQyUlPvyieUr-GQUfSvJ2iGLAHZX0hMmJ7h0/edit#gid=0"
-      }
-    ]
-  },
-  {
-    "title": "한국어 과학 포스터 점검 초안",
-    "section": "상세 참고 · 구글 수업 도구",
-    "guide": "G39",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 구글 수업 도구 · 실제 화면</div><h1>한국어 과학 포스터 점검 초안</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-slides-yale-korean.jpg\" alt=\"한국어 과학 포스터 점검 초안\" data-modal-src=\"../assets/yale/actual/google-slides-yale-korean.jpg\" data-modal-title=\"한국어 과학 포스터 점검 초안\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">생성된 점검표의 탐구 개념·출처 표현도 교사가 검토합니다.</p>",
-    "notes": "변인 간 상관관계 타당성 확보는 통제 조건의 일관성 확인으로, 이론적 가상 자료는 가상 자료 구분 표기로 보완합니다. 생성된 초안이며 학교 공식 기준이 아닙니다.",
-    "liveLinks": [
-      {
-        "label": "과학 포스터 초안 열기",
-        "url": "https://docs.google.com/presentation/d/1trGuCFCKPSNnTNMgvUQeUYrHaMp8pBcdZ7hoQb2xjy4/edit"
-      }
-    ]
-  },
-  {
-    "title": "한국어 독서 성찰 설문 세 문항",
-    "section": "상세 참고 · 구글 수업 도구",
-    "guide": "G39",
-    "layout": "actual-slide",
-    "html": "<div class=\"eyebrow\">상세 참고 · 구글 수업 도구 · 실제 화면</div><h1>한국어 독서 성찰 설문 세 문항</h1><figure class=\"actual-shot\"><img src=\"../assets/yale/actual/google-forms-yale-korean.jpg\" alt=\"한국어 독서 성찰 설문 세 문항\" data-modal-src=\"../assets/yale/actual/google-forms-yale-korean.jpg\" data-modal-title=\"한국어 독서 성찰 설문 세 문항\"><figcaption>2026. 10. 05. 실제 촬영 · 눌러서 확대</figcaption></figure><p class=\"actual-look\">근거 찾기·주장과 근거·다음 진로 질문을 개인정보 없이 구성했습니다.</p>",
-    "notes": "교사용 제안으로 만든 비공개 설문 초안입니다. 학생에게 게시하지 않았고 실제 응답을 수집하지 않았습니다.",
-    "liveLinks": [
-      {
-        "label": "독서 성찰 설문 편집 열기",
-        "url": "https://docs.google.com/forms/d/1G15kRbp6uPMwKW3c9t2AZ98yalQeuJT71GXsa7In06A/edit"
       }
     ]
   }

@@ -2,7 +2,7 @@ window.HANYOUNG_GUIDE = [
   {
     "id": "G01",
     "title": "시작과 연수자료",
-    "lead": "필수 실습과 상세 참고를 구분합니다.",
+    "lead": "센스쿨부터 센지피티까지 기능 순서대로 이어집니다.",
     "tasks": [
       "첫째 큐알 또는 bit.ly/26예일여고로 연수 패들렛을 엽니다.",
       "둘째 큐알 또는 구글 설문 짧은 주소로 계정 확인 설문을 엽니다.",
@@ -19,7 +19,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">14:00–14:15 접속 · 14:15–14:30 센스쿨 · 14:30–14:45 플러스 · 14:45–14:55 학교 맥락과 시연 · 14:55–15:00 센지피티 준비 · 15:00–15:50 생성·수정·역할·재사용 · 15:50–16:00 공유</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a> <a href=\"https://forms.gle/oBjCSpz12G199t7S9\" target=\"_blank\" rel=\"noopener\">계정 확인 설문 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p>센스쿨 → 기본판과 플러스 비교 → 추가 기능 → 클래스룸 제미나이 → 제미나이 노트북 → 센지피티 실습과 공유.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a> <a href=\"https://forms.gle/oBjCSpz12G199t7S9\" target=\"_blank\" rel=\"noopener\">계정 확인 설문 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l",
@@ -51,7 +51,7 @@ window.HANYOUNG_GUIDE = [
     ],
     "images": [],
     "copy": [],
-    "extra": "<p class=\"caution\">이미 로그인된 계정에서는 최초 구글 로그인과 크롬 프로필 분기를 새로 재현하지 않았습니다. 기기·조직 정책에 따라 현재 화면을 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/\" target=\"_blank\" rel=\"noopener\">센스쿨 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">이미 로그인된 계정에서는 최초 구글 로그인과 크롬 프로필 분기를 새로 재현하지 않았습니다. 기기·조직 정책에 따라 현재 화면을 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/\" target=\"_blank\" rel=\"noopener\">센스쿨 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -78,7 +78,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">센스쿨 화면의 소속은 강사 계정의 종로산업정보학교입니다. 예일여고 학생 계정의 실제 운영 화면이 아니라 예일여고 맥락의 빈 연수 시연입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/\" target=\"_blank\" rel=\"noopener\">센스쿨 열기 ↗</a> <a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">센스쿨 화면의 소속은 강사 계정의 종로산업정보학교입니다. 예일여고 학생 계정의 실제 운영 화면이 아니라 예일여고 맥락의 빈 연수 시연입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/\" target=\"_blank\" rel=\"noopener\">센스쿨 열기 ↗</a> <a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -103,7 +103,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">구글 연결완료 표시와 같은 이름의 빈 클래스룸 생성을 확인했습니다. 연결 뒤 사용할 학습관리시스템을 선택·저장하는 단계는 별도입니다. 조직 계정 일괄 생성·학생 비밀번호 변경은 실행하지 않았습니다. 고객센터는 현재 화면의 1877-1052 안내를 참고합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">구글 연결완료 표시와 같은 이름의 빈 클래스룸 생성을 확인했습니다. 연결 뒤 사용할 학습관리시스템을 선택·저장하는 단계는 별도입니다. 조직 계정 일괄 생성·학생 비밀번호 변경은 실행하지 않았습니다. 고객센터는 현재 화면의 1877-1052 안내를 참고합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -130,7 +130,7 @@ window.HANYOUNG_GUIDE = [
       "시연 이름",
       "예일여고 연수 시연"
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -157,7 +157,7 @@ window.HANYOUNG_GUIDE = [
       "자료 소개",
       "예일여고 과학 포스터 준비용 교원연수 시연 자료입니다. 가상 실험의 질문과 변인표를 교사가 검토합니다. 학교 공식 규정이나 실제 학생 성취가 아닙니다."
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -181,7 +181,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">현재 과목 목록에 전체 항목만 표시되어 성취기준 연결을 완료하지 못했습니다. 비공개 편집 단계이며 꾸러미 등록 완료로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://courseware.senedu.kr/course/new?snb=objective\" target=\"_blank\" rel=\"noopener\">수업꾸러미 편집 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">현재 과목 목록에 전체 항목만 표시되어 성취기준 연결을 완료하지 못했습니다. 비공개 편집 단계이며 꾸러미 등록 완료로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://courseware.senedu.kr/course/new?snb=objective\" target=\"_blank\" rel=\"noopener\">수업꾸러미 편집 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -209,7 +209,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">실제 학생 기록을 공개하지 않았고 비밀번호도 변경하지 않았습니다. 인증 변경이 필요하면 담당자가 직접 진행합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">실제 학생 기록을 공개하지 않았고 비밀번호도 변경하지 않았습니다. 인증 변경이 필요하면 담당자가 직접 진행합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -233,7 +233,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -265,43 +265,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G11",
-    "title": "수업도구 툴킷과 즐겨찾기",
-    "lead": "현재 도구 수와 제한을 확인합니다.",
-    "tasks": [
-      "센스쿨 수업도구 즐겨찾기는 최대 세 개입니다.",
-      "툴킷 화면의 현재 열세 개 도구를 확인합니다.",
-      "타이머와 큐알을 수업 흐름에 적용합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/sen-tool-favorites.jpg",
-        "자주 쓰는 도구는 세 개까지 · 실제 화면 · 2026. 10. 04."
-      ],
-      [
-        "yale/actual/sen-toolkit-overview.jpg",
-        "툴킷의 현재 도구 열세 개 · 실제 화면 · 2026. 10. 04."
-      ],
-      [
-        "yale/actual/sen-tool-timer.jpg",
-        "수업 시간을 화면으로 안내 · 실제 화면 · 2026. 10. 04."
-      ],
-      [
-        "yale/actual/sen-tool-qr.jpg",
-        "교재를 큐알로 연결 · 실제 화면 · 2026. 10. 04."
-      ]
-    ],
-    "copy": [],
-    "extra": "<p class=\"caution\">개편 매뉴얼의 열 개 목록과 현재 열세 개 도구를 구분합니다. 자리배치·국민의례·주기율표 등 현재 추가된 도구를 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a> <a href=\"https://senedu.kr/toolkit\" target=\"_blank\" rel=\"noopener\">수업도구 열기 ↗</a> <a href=\"https://senedu.kr/toolkit?tool=timer\" target=\"_blank\" rel=\"noopener\">타이머 열기 ↗</a> <a href=\"https://senedu.kr/toolkit?tool=qr\" target=\"_blank\" rel=\"noopener\">큐알 도구 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -329,7 +293,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -338,13 +302,353 @@ window.HANYOUNG_GUIDE = [
     ]
   },
   {
-    "id": "G34",
-    "title": "저장 공간: 구글 이백·네이버웍스 오백",
-    "lead": "현재 교육 계정에서 확인한 개인 저장용량입니다.",
+    "id": "G11",
+    "title": "수업도구 툴킷과 즐겨찾기",
+    "lead": "현재 도구 수와 제한을 확인합니다.",
     "tasks": [
-      "구글 드라이브의 총 이백 기가바이트를 확인합니다.",
-      "네이버웍스 내 드라이브의 사용 이 점 이와 남은 사백구십칠 점 팔 기가바이트를 합산합니다.",
-      "수업자료 원본과 배포 파일의 저장 장소를 정합니다."
+      "센스쿨 첫 화면의 즐겨찾기는 최대 세 개입니다.",
+      "툴킷의 열세 개 도구를 하나씩 확인합니다.",
+      "아래 도구별 교재에서 설정과 수업 활용을 따라 합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/sen-tool-favorites.jpg",
+        "자주 쓰는 도구는 세 개까지 · 실제 화면 · 2026. 10. 04."
+      ],
+      [
+        "yale/actual/sen-toolkit-overview.jpg",
+        "툴킷의 현재 도구 열세 개 · 실제 화면 · 2026. 10. 04."
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>센스쿨 첫 화면의 즐겨찾기와 툴킷 안의 즐겨찾기를 구분합니다. 툴킷의 도구 수는 현재 화면을 기준으로 안내합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/mainTchr.html\" target=\"_blank\" rel=\"noopener\">센스쿨 메뉴 열기 ↗</a> <a href=\"https://senedu.kr/toolkit\" target=\"_blank\" rel=\"noopener\">수업도구 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G41",
+    "title": "타이머",
+    "lead": "읽기와 토론 시간을 함께 보기",
+    "tasks": [
+      "시간을 정합니다",
+      "시작·일시정지합니다",
+      "전체화면으로 안내합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-timer.jpg",
+        "독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>독서 근거 찾기 다섯 분과 모둠 토론 시간을 구분합니다.</p><p>스톱워치에서는 구간 기록도 남길 수 있습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=timer\" target=\"_blank\" rel=\"noopener\">타이머 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G42",
+    "title": "현재시간",
+    "lead": "수업 종료 시각과 현재 시각 확인",
+    "tasks": [
+      "시계 모양을 고릅니다",
+      "현재 시각을 확인합니다",
+      "세계 시간을 비교합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-clock.jpg",
+        "발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>발표 종료 시각을 안내하고 세계 시간은 시간대 비교에 활용합니다.</p><p>디지털·아날로그·세계 시간 중 목적에 맞게 선택합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=clock\" target=\"_blank\" rel=\"noopener\">현재시간 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G43",
+    "title": "랜덤뽑기",
+    "lead": "발표할 모둠을 무작위로 선택",
+    "tasks": [
+      "항목을 추가합니다",
+      "중복 제외를 정합니다",
+      "뽑고 결과를 확인합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-random.jpg",
+        "가상 모둠 이름으로 독서 토론 발표 순서를 정합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>가상 모둠 이름으로 독서 토론 발표 순서를 정합니다.</p><p>뽑은 항목 제외 여부를 먼저 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=random\" target=\"_blank\" rel=\"noopener\">랜덤뽑기 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G44",
+    "title": "돌림판",
+    "lead": "수업 활동을 돌림판으로 선택",
+    "tasks": [
+      "활동 이름을 넣습니다",
+      "제외 조건을 정합니다",
+      "돌리고 결과를 봅니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-wheel.jpg",
+        "근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>근거 찾기·질문 만들기·주장 정리 중 활동을 선택합니다.</p><p>학생 평가 점수 결정에 사용하는 사례가 아닙니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=wheel\" target=\"_blank\" rel=\"noopener\">돌림판 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G45",
+    "title": "점수판",
+    "lead": "모둠 활동의 진행 점수 안내",
+    "tasks": [
+      "팀을 추가합니다",
+      "가감 점수를 정합니다",
+      "점수와 기록을 봅니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-score.jpg",
+        "과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>과학 탐구 모둠의 참여 활동을 게임처럼 진행할 때 사용합니다.</p><p>화면 점수는 수업 진행용이며 학교 공식 배점이 아닙니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=score\" target=\"_blank\" rel=\"noopener\">점수판 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G46",
+    "title": "모둠만들기",
+    "lead": "명단과 조건으로 모둠 편성",
+    "tasks": [
+      "가상 명단을 넣습니다",
+      "모둠 수를 정합니다",
+      "편성 후 명단을 복사합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-groups.jpg",
+        "가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>가상학생 여섯 명을 세 모둠으로 편성한 실제 시연입니다.</p><p>자동은 모둠 수, 직접은 모둠당 인원을 기준으로 나눕니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=groups\" target=\"_blank\" rel=\"noopener\">모둠만들기 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G47",
+    "title": "자리배치",
+    "lead": "책상 배치와 조건에 맞춰 자리 정하기",
+    "tasks": [
+      "책상 모양을 고릅니다",
+      "명단·조건을 정합니다",
+      "배치하고 자리를 조정합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-seats.jpg",
+        "토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>토론용 짝 책상이나 과학 탐구용 모둠 책상을 구성합니다.</p><p>두 자리를 차례로 누르면 맞바꿀 수 있습니다. 새로고침 전 배치 복사로 남깁니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=seats\" target=\"_blank\" rel=\"noopener\">자리배치 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G48",
+    "title": "사다리타기",
+    "lead": "모둠 역할과 발표 순서를 연결",
+    "tasks": [
+      "출발 항목을 넣습니다",
+      "결과 역할을 고릅니다",
+      "사다리 경로를 확인합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-ladder.jpg",
+        "가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>가상 모둠과 조장·기록이·발표자 역할을 연결하는 예입니다.</p><p>출발과 결과 항목 수를 확인하고 학생 평가에는 사용하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=ladder\" target=\"_blank\" rel=\"noopener\">사다리타기 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G49",
+    "title": "주사위",
+    "lead": "무작위 수와 확률 탐구",
+    "tasks": [
+      "종류·개수를 정합니다",
+      "주사위를 굴립니다",
+      "합계·기록을 확인합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-dice.jpg",
+        "두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>두 주사위의 합을 관찰하고 예상 확률과 결과를 비교합니다.</p><p>화면은 실제 한 번 굴린 결과입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=dice\" target=\"_blank\" rel=\"noopener\">주사위 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G50",
+    "title": "뽑기레이스",
+    "lead": "발표 순서를 레이스로 정하기",
+    "tasks": [
+      "가상 모둠을 넣습니다",
+      "시작·일시정지합니다",
+      "골인 순서를 확인합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-race.jpg",
+        "독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>독서 토론 모둠의 발표 순서를 흥미롭게 정하는 제안입니다.</p><p>화면은 가상 모둠 세 개의 출발 전 준비 상태입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=race\" target=\"_blank\" rel=\"noopener\">뽑기레이스 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G51",
+    "title": "큐알 만들기",
+    "lead": "주소를 바로 접속하는 큐알로 바꾸기",
+    "tasks": [
+      "교재 주소를 넣습니다",
+      "큐알을 크게 띄웁니다",
+      "휴대기기로 접속합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-qr.jpg",
+        "예일여고 참가자 교재 주소로 생성한 실제 큐알입니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>예일여고 참가자 교재 주소로 생성한 실제 큐알입니다.</p><p>이미지로 저장하면 수업자료에 넣을 수 있습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=qr\" target=\"_blank\" rel=\"noopener\">큐알 만들기 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G52",
+    "title": "국민의례",
+    "lead": "학교 행사 절차와 음원 안내",
+    "tasks": [
+      "음원·절수를 정합니다",
+      "묵념 시간을 정합니다",
+      "단계별·순서대로 재생합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-anthem.jpg",
+        "학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>학교 행사 전에 경례·애국가·묵념의 순서를 준비합니다.</p><p>묵념은 음원 없이 시간을 잽니다. 이번 화면은 재생 전 설정입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=anthem\" target=\"_blank\" rel=\"noopener\">국민의례 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G53",
+    "title": "주기율표",
+    "lead": "원소를 선택해 성질과 위치 확인",
+    "tasks": [
+      "원소를 선택합니다",
+      "주기·족·성질을 봅니다",
+      "가리기·맞히기를 활용합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/toolkit-ptable.jpg",
+        "과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다. · 실제 화면"
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>과학 탐구에서 산소의 위치·상태·전자 배치를 확인합니다.</p><p>원소 이름과 기호는 서비스가 표시하는 실제 과학 표기입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://senedu.kr/toolkit?tool=ptable\" target=\"_blank\" rel=\"noopener\">주기율표 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "도구를 열어 목적에 맞게 설정하고 결과를 확인할 수 있습니다.",
+    "fail": [
+      "명단이 필요한 실습에는 가상 이름을 사용합니다.",
+      "설정과 명단은 새로고침 전에 필요한 결과를 복사합니다."
+    ]
+  },
+  {
+    "id": "G34",
+    "title": "센스쿨 저장 공간 · 구글 200GB와 네이버웍스 500GB",
+    "lead": "센스쿨 계정으로 이용하는 두 저장 공간을 실제 화면에서 확인합니다.",
+    "tasks": [
+      "구글 드라이브 저장용량 화면에서 200GB를 확인합니다.",
+      "네이버웍스 내 드라이브의 사용 2.2GB와 남은 497.8GB를 합쳐 500GB를 확인합니다.",
+      "원본과 배포 자료를 구분해 저장하고 참가자 자신의 계정에서도 용량을 확인합니다."
     ],
     "images": [
       [
@@ -357,12 +661,35 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">강사 계정의 개인 용량이며 조직 전체 공용 공간이 아닙니다. 네이버웍스 사용량과 남은 용량 합계가 오백 기가바이트입니다. 참가자 자신의 계정에서도 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://drive.google.com/drive/u/0/quota\" target=\"_blank\" rel=\"noopener\">구글 저장용량 열기 ↗</a> <a href=\"https://drive.worksmobile.com/settings/my\" target=\"_blank\" rel=\"noopener\">네이버웍스 용량 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p>두 저장 공간은 센스쿨 파트에서 소개합니다. 구글 플러스 판 자체의 개인 저장용량 보장과 구분합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://drive.google.com/drive/u/0/quota\" target=\"_blank\" rel=\"noopener\">구글 저장용량 열기 ↗</a> <a href=\"https://drive.worksmobile.com/settings/my\" target=\"_blank\" rel=\"noopener\">네이버웍스 용량 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
       "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
       "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G40",
+    "title": "펀더멘털 기본판과 플러스 비교",
+    "lead": "기본 기능과 추가 수업 기능을 구분한 뒤 실제 화면을 확인합니다.",
+    "tasks": [
+      "기본판에 포함된 수업·협업 도구를 확인합니다.",
+      "플러스에서 확대되는 보고서·과제·화상 수업 기능을 비교합니다.",
+      "자신의 계정에서 메뉴와 관리자 허용 상태를 확인합니다."
+    ],
+    "images": [],
+    "copy": [],
+    "extra": "<p>구글 200GB와 네이버웍스 500GB는 센스쿨 서비스 안내에 배치했습니다. 인공지능 기능은 각 서비스의 계정별 조건을 확인합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://knowledge.workspace.google.com/admin/getting-started/editions/compare-education-editions?hl=ko\" target=\"_blank\" rel=\"noopener\">구글 공식 비교표 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [
+      [
+        "https://knowledge.workspace.google.com/admin/getting-started/editions/compare-education-editions?hl=ko",
+        "구글 공식 교육용 판 비교표"
+      ]
+    ],
+    "success": "추가 기능을 수업 목적에 맞게 선택할 수 있습니다.",
+    "fail": [
+      "공식 비교표와 현재 계정의 제공 메뉴를 함께 확인합니다."
     ]
   },
   {
@@ -381,7 +708,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">건대사대부고·세명컴퓨터고의 첨부 발표자료를 대조했습니다. 모든 기능의 학생 성과를 재현한 것은 아니며 교사 계정의 실제 제작·설정 화면을 활용합니다. 기본 점수 백 점은 학교 공식 배점이 아닙니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">건대사대부고·세명컴퓨터고의 첨부 발표자료를 대조했습니다. 모든 기능의 학생 성과를 재현한 것은 아니며 교사 계정의 실제 제작·설정 화면을 활용합니다. 기본 점수 백 점은 학교 공식 배점이 아닙니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -431,7 +758,7 @@ window.HANYOUNG_GUIDE = [
       "교사 힌트",
       "독립변인은 실험자가 의도적으로 바꾼 조건입니다. 문장에서 바꾸고 앞의 조건을 찾아보세요. 성장량은 측정 결과이고 물의 양은 같게 유지합니다."
     ],
-    "extra": "<p class=\"caution\">시연 답안을 한국어로 바로잡아 다시 촬영했습니다. 문항 제작과 학생 미리보기만 확인했고 실제 학생에게 할당하지 않았습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/edit\" target=\"_blank\" rel=\"noopener\">연습세트 편집 열기 ↗</a> <a href=\"https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview\" target=\"_blank\" rel=\"noopener\">학생 미리보기 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">시연 답안을 한국어로 바로잡아 다시 촬영했습니다. 문항 제작과 학생 미리보기만 확인했고 실제 학생에게 할당하지 않았습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/edit\" target=\"_blank\" rel=\"noopener\">연습세트 편집 열기 ↗</a> <a href=\"https://classroom.google.com/ec/ps/practicesets/c6363de1-8655-49cd-9108-5eba23e800e2/preview\" target=\"_blank\" rel=\"noopener\">학생 미리보기 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://support.google.com/edu/classroom/answer/13455315?hl=ko",
@@ -463,7 +790,7 @@ window.HANYOUNG_GUIDE = [
       "영상 질문",
       "예일여고 과학 포스터를 준비한다고 가정해 봅시다. 빛의 세기와 식물의 성장량을 비교하는 실험에서 바꿀 조건 한 개와 같게 유지할 조건 두 개를 쓰고 이유를 설명하세요."
     ],
-    "extra": "<p class=\"caution\">선택 영상은 이비에스의 과거 수능 개념 영상으로 현재 교육과정 적합성을 확인해야 합니다. 초안 질문은 영 분 일 초에 배치했습니다. 서술형 응답은 자동 채점되지 않으며 성적부 반영은 교사가 처리합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ec/va/edt/6fe7a162-a384-44e8-b3c5-5d642dc67eb6\" target=\"_blank\" rel=\"noopener\">영상 질문 편집 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">선택 영상은 이비에스의 과거 수능 개념 영상으로 현재 교육과정 적합성을 확인해야 합니다. 초안 질문은 영 분 일 초에 배치했습니다. 서술형 응답은 자동 채점되지 않으며 성적부 반영은 교사가 처리합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ec/va/edt/6fe7a162-a384-44e8-b3c5-5d642dc67eb6\" target=\"_blank\" rel=\"noopener\">영상 질문 편집 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://support.google.com/edu/classroom/answer/14009443?hl=ko",
@@ -492,7 +819,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">분석에는 클래스룸 활동만 반영되며 외부 학사 시스템 기록은 포함되지 않습니다. 빈 시연 수업이므로 실제 성취 변화나 학습 효과를 주장하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/an/ODczNzU4MTE2ODY4/tv\" target=\"_blank\" rel=\"noopener\">시연 수업 분석 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">분석에는 클래스룸 활동만 반영되며 외부 학사 시스템 기록은 포함되지 않습니다. 빈 시연 수업이므로 실제 성취 변화나 학습 효과를 주장하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/an/ODczNzU4MTE2ODY4/tv\" target=\"_blank\" rel=\"noopener\">시연 수업 분석 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://support.google.com/edu/classroom/answer/14221316?hl=ko",
@@ -521,7 +848,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">교사 링크 액세스를 켜지 않았습니다. 메뉴 안내는 학생 성적·댓글·제출물이 수업 콘텐츠 공유에 표시되지 않는다고 설명합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">교사 링크 액세스를 켜지 않았습니다. 메뉴 안내는 학생 성적·댓글·제출물이 수업 콘텐츠 공유에 표시되지 않는다고 설명합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -550,7 +877,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">원본성 보고서는 텍스트를 웹페이지·도서 등과 비교하여 출처 검토를 돕습니다. 생성형 인공지능 사용 여부를 확정하는 판정으로 설명하지 않습니다. 미배포 초안의 설정만 확인했고 학생 보고서·부가기능 권한 확장·녹음·회의 기록은 만들지 않았습니다. 외국어 도서 본문은 이번 한국어 사례에서 제외했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a> <a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">원본성 보고서는 텍스트를 웹페이지·도서 등과 비교하여 출처 검토를 돕습니다. 생성형 인공지능 사용 여부를 확정하는 판정으로 설명하지 않습니다. 미배포 초안의 설정만 확인했고 학생 보고서·부가기능 권한 확장·녹음·회의 기록은 만들지 않았습니다. 외국어 도서 본문은 이번 한국어 사례에서 제외했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/w/ODczNzU4MTE2ODY4/t/all\" target=\"_blank\" rel=\"noopener\">시연 수업 과제 열기 ↗</a> <a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://support.google.com/edu/classroom/answer/9335816?hl=ko",
@@ -564,44 +891,99 @@ window.HANYOUNG_GUIDE = [
     ]
   },
   {
-    "id": "G39",
-    "title": "문서·자료표·발표·설문으로 확장",
-    "lead": "한국어 독서·과학 포스터 사례를 실제 수업 도구에서 만들었습니다.",
+    "id": "G54",
+    "title": "소그룹 채팅방",
+    "lead": "두 모둠의 토론을 나누어 진행",
     "tasks": [
-      "독서 계획을 문서로 내보내고 근거를 검토합니다.",
-      "가상 탐구 자료표의 조건·성장량·단위를 확인합니다.",
-      "발표 초안에서 변인과 출처 표현을 고칩니다.",
-      "성찰 설문의 객관식 한 개·장문형 두 개를 검토합니다.",
-      "실제 배포 전에 개인정보 수집 설정과 응답 범위를 확인합니다."
+      "회의 도구에서 소그룹을 엽니다",
+      "방 수와 참여자 배정을 정합니다",
+      "열고 토론 후 기본 통화로 모읍니다"
     ],
     "images": [
       [
-        "yale/actual/google-workspace-create.jpg",
-        "드라이브에서 수업 도구로 이어가기 · 실제 화면 · 2026. 10. 05."
-      ],
-      [
-        "yale/actual/google-sheets-yale-korean.jpg",
-        "과학 포스터용 가상 탐구 자료표 · 실제 화면 · 2026. 10. 05."
-      ],
-      [
-        "yale/actual/google-slides-yale-korean.jpg",
-        "한국어 과학 포스터 점검 초안 · 실제 화면 · 2026. 10. 05."
-      ],
-      [
-        "yale/actual/google-forms-yale-korean.jpg",
-        "한국어 독서 성찰 설문 세 문항 · 실제 화면 · 2026. 10. 05."
+        "yale/actual/meet-breakout.jpg",
+        "가상 명단 배정 전 설정 화면입니다. 예일여고 독서 토론의 찬성·반대 근거를 두 방에서 준비하는 제안입니다."
       ]
     ],
-    "copy": [
-      "한국어 성찰 설문 요청",
-      "예일여고 독서 수업의 교사 검토용 성찰 설문을 만드세요. 책읽수다 모둠 독서와 북브릿지 진로·전공 연계 독서 맥락을 참고하세요. 근거 찾기에 도움이 된 활동을 고르는 객관식 질문 한 개, 원문의 주장과 근거를 쓰는 장문형 질문 한 개, 다음 진로 질문을 쓰는 장문형 질문 한 개를 제안하세요. 모든 제목·설명·보기는 한국어로만 작성하세요. 학생 이름·학번·이메일·성적을 수집하지 않고 학교 공식 설문이 아닌 교사용 제안이라고 표시하세요."
-    ],
-    "extra": "<p class=\"caution\">자료표의 수치는 설명을 위한 가상 자료이며 실제 측정 결과가 아닙니다. 문서·발표·설문의 생성 도우미는 현재 계정에서 확인한 별도 제공 범위입니다. 발표 초안의 변인 간 상관관계 타당성 확보는 통제 조건의 일관성 확인으로, 이론적 가상 자료는 가상 자료 구분 표기로 보완합니다. 비공개 초안을 만들었으며 학생에게 배포하거나 설문 응답을 수집하지 않았습니다. 앱시트는 로그인 시 이용약관 동의를 요구하는 화면까지 확인했으므로 앱 제작·배포 완료로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://drive.google.com/drive/u/0/home\" target=\"_blank\" rel=\"noopener\">구글 드라이브 열기 ↗</a> <a href=\"https://docs.google.com/spreadsheets/d/1wFzNts8XQyUlPvyieUr-GQUfSvJ2iGLAHZX0hMmJ7h0/edit#gid=0\" target=\"_blank\" rel=\"noopener\">가상 탐구 자료표 열기 ↗</a> <a href=\"https://docs.google.com/presentation/d/1trGuCFCKPSNnTNMgvUQeUYrHaMp8pBcdZ7hoQb2xjy4/edit\" target=\"_blank\" rel=\"noopener\">과학 포스터 초안 열기 ↗</a> <a href=\"https://docs.google.com/forms/d/1G15kRbp6uPMwKW3c9t2AZ98yalQeuJT71GXsa7In06A/edit\" target=\"_blank\" rel=\"noopener\">독서 성찰 설문 편집 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "copy": [],
+    "extra": "<p>가상 명단 배정 전 설정 화면입니다. 예일여고 독서 토론의 찬성·반대 근거를 두 방에서 준비하는 제안입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "success": "기능의 설정 위치와 수업 활용을 설명할 수 있습니다.",
     "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+      "실습은 참가자 초대 없이 설정 화면부터 확인합니다.",
+      "자신의 학교 계정과 관리자 설정에 따라 제공 메뉴가 달라질 수 있습니다."
+    ]
+  },
+  {
+    "id": "G55",
+    "title": "수업 중 설문",
+    "lead": "독서 토론의 판단을 짧게 확인",
+    "tasks": [
+      "회의 도구에서 설문을 엽니다",
+      "한국어 질문과 보기를 씁니다",
+      "저장 후 수업에서 게시합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/meet-poll-full.jpg",
+        "예일여고 독서 질문을 저장한 미게시 초안입니다. 응답 결과가 없는 한 명 시연이며 회의는 종료했습니다."
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>예일여고 독서 질문을 저장한 미게시 초안입니다. 응답 결과가 없는 한 명 시연이며 회의는 종료했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능의 설정 위치와 수업 활용을 설명할 수 있습니다.",
+    "fail": [
+      "실습은 참가자 초대 없이 설정 화면부터 확인합니다.",
+      "자신의 학교 계정과 관리자 설정에 따라 제공 메뉴가 달라질 수 있습니다."
+    ]
+  },
+  {
+    "id": "G56",
+    "title": "질문과 답변",
+    "lead": "공통 질문을 모아 설명하기",
+    "tasks": [
+      "회의 도구에서 질문을 엽니다",
+      "사용 설정을 확인합니다",
+      "질문을 모아 답변합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/meet-questions-full.jpg",
+        "실제 사용 전 안내 화면입니다. 과학 포스터 발표의 추가 설명 질문을 모으는 교사용 제안입니다."
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>실제 사용 전 안내 화면입니다. 과학 포스터 발표의 추가 설명 질문을 모으는 교사용 제안입니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능의 설정 위치와 수업 활용을 설명할 수 있습니다.",
+    "fail": [
+      "실습은 참가자 초대 없이 설정 화면부터 확인합니다.",
+      "자신의 학교 계정과 관리자 설정에 따라 제공 메뉴가 달라질 수 있습니다."
+    ]
+  },
+  {
+    "id": "G57",
+    "title": "화상 수업 녹화",
+    "lead": "설명 영상을 남기는 설정 확인",
+    "tasks": [
+      "회의 도구에서 녹화를 엽니다",
+      "저장 위치·언어를 확인합니다",
+      "동의와 공개 범위를 확인합니다"
+    ],
+    "images": [
+      [
+        "yale/actual/meet-record-full.jpg",
+        "녹화 시작 전 설정 화면만 확인했습니다. 녹화 파일과 참여자 기록은 생성하지 않았습니다."
+      ]
+    ],
+    "copy": [],
+    "extra": "<p>녹화 시작 전 설정 화면만 확인했습니다. 녹화 파일과 참여자 기록은 생성하지 않았습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://meet.google.com/home\" target=\"_blank\" rel=\"noopener\">화상 수업 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능의 설정 위치와 수업 활용을 설명할 수 있습니다.",
+    "fail": [
+      "실습은 참가자 초대 없이 설정 화면부터 확인합니다.",
+      "자신의 학교 계정과 관리자 설정에 따라 제공 메뉴가 달라질 수 있습니다."
     ]
   },
   {
@@ -615,162 +997,7 @@ window.HANYOUNG_GUIDE = [
     ],
     "images": [],
     "copy": [],
-    "extra": "<p class=\"caution\">인공지능 영재학급의 일학년 스무 명·여든 시간 이상은 별도 프로그램입니다. 아두이노·사물인터넷·삼차원 모델링과 영자신문·외국어·국제 교류도 각 계획의 맥락으로 구분합니다. 계획을 이미 완료된 성과로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G16",
-    "title": "제미나이 노트북의 역할",
-    "lead": "선택한 자료에서 답을 찾습니다.",
-    "tasks": [
-      "출처·질문·스튜디오를 구분합니다.",
-      "학교 사실과 교사용 제안을 나눠 요청합니다.",
-      "답변의 문장과 출처를 대조합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/notebook-yale-korean-result.jpg",
-        "노트북은 선택한 자료에서 답합니다 · 실제 화면 · 2026. 10. 05."
-      ]
-    ],
-    "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G17",
-    "title": "시연 자료의 범위",
-    "lead": "학교 계획 전문 대신 발췌·요약을 사용했습니다.",
-    "tasks": [
-      "학교 활동 맥락만 선별합니다.",
-      "학생 개인정보와 학교 평가 규정을 새로 넣지 않습니다.",
-      "요약임을 출처 제목과 설명에 표시합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/notebook-yale-source-input.jpg",
-        "자료 추가의 실제 입력 · 실제 화면 · 2026. 10. 05."
-      ]
-    ],
-    "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G18",
-    "title": "질문 → 비교 → 검토",
-    "lead": "출처에 없는 조건을 만들지 않도록 요청합니다.",
-    "tasks": [
-      "비교할 활동을 세 가지로 한정합니다.",
-      "대상·활동을 자료에 있는 내용으로만 정리합니다.",
-      "인용 표시는 실제 버튼인지 확인합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/notebook-yale-korean-result.jpg",
-        "한국어로 다시 정리한 학교 활동 · 실제 화면 · 2026. 10. 05."
-      ]
-    ],
-    "copy": [
-      "학교 활동 비교 요청",
-      "자료에서 책읽수다·북브릿지·과학중점과정을 비교하세요. 대상과 활동을 출처에 있는 사실로 정리하고 교사용 제안은 별도로 표시하세요. 북브릿지는 진로·전공 연계 독서이며 심층 쟁점 독서토론과 같은 활동으로 단정하지 마세요. 출처에 없는 배점·실제 성취·단계별 세부 활동은 만들지 마세요. 모든 제목과 설명은 한국어로만 작성하세요."
-    ],
-    "extra": "<p class=\"caution\">현재 다시 생성한 표에는 대괄호 숫자가 일반 텍스트로 출력된 부분이 있습니다. 이것만으로 클릭 가능한 인용이라고 설명하지 않고 출처 패널을 직접 엽니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G19",
-    "title": "예일여고 사례 검토와 수정",
-    "lead": "활동의 관계를 바로잡은 실제 사례입니다.",
-    "tasks": [
-      "북브릿지를 심층 쟁점 토론 자체로 묶은 첫 답변을 검토합니다.",
-      "진로 단계의 임의 묶음과 세부 활동 배정을 삭제합니다.",
-      "한국어로 다시 생성한 답변과 출처를 대조합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/notebook-yale-korean-source.jpg",
-        "출처 원문과 다시 대조 · 실제 화면 · 2026. 10. 05."
-      ]
-    ],
-    "copy": [
-      "활동 관계 정정 요청",
-      "북브릿지는 진로·전공 연계 독서이고 심층 쟁점 독서토론 자체로 단정하지 마세요. 진로 단계별 세부 활동 배정은 자료에 없으므로 삭제하거나 확인 필요로 표시하세요. 사실과 교사용 제안을 분리하여 한국어로만 다시 작성하세요."
-    ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G20",
-    "title": "스튜디오 결과 검토",
-    "lead": "퀴즈와 슬라이드도 검토 대상입니다.",
-    "tasks": [
-      "퀴즈 정답이 원문에 있는지 확인합니다.",
-      "생각그물의 연결 관계를 원문과 비교합니다.",
-      "슬라이드의 교사용 제안과 완료된 성과를 구분합니다."
-    ],
-    "images": [
-      [
-        "yale/actual/notebook-yale-quiz.jpg",
-        "학교 활동 퀴즈로 자료 읽기 · 실제 화면 · 2026. 10. 04."
-      ],
-      [
-        "yale/actual/notebook-yale-slide-proposal.jpg",
-        "슬라이드 결과도 교사가 검토 · 실제 화면 · 2026. 10. 04."
-      ]
-    ],
-    "copy": [
-      "결과 검토 요청",
-      "자료에 없는 단계별 활동·배점·실제 성과를 삭제하거나 확인 필요로 표시하세요. 원문 사실과 교사용 제안을 구분하고 모든 제목·표·설명을 한국어로만 작성하세요."
-    ],
-    "extra": "<p class=\"caution\">생각그물·인포그래픽의 관계와 단계 배정도 교사가 원문과 대조합니다. 이 자료에는 한국어로 확인한 퀴즈와 교사용 제안 페이지를 사용했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
-    "links": [],
-    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
-    "fail": [
-      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
-      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
-    ]
-  },
-  {
-    "id": "G21",
-    "title": "내 수업에 노트북 적용",
-    "lead": "허용된 자료로 같은 흐름을 반복합니다.",
-    "tasks": [
-      "읽기 자료를 추가합니다.",
-      "요약과 학생 질문을 요청합니다.",
-      "출처·한국어 표현을 확인하고 초안으로 저장합니다."
-    ],
-    "images": [],
-    "copy": [
-      "내 교과 요청",
-      "제공한 읽기 자료의 사실 세 개와 학생에게 물을 열린 질문 세 개를 분리하세요. 교사용 제안은 별도로 표시하고 자료에 없는 근거·규정·실제 성과는 만들지 마세요. 모든 제목과 설명은 한국어만 사용하세요."
-    ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">인공지능 영재학급의 일학년 스무 명·여든 시간 이상은 별도 프로그램입니다. 아두이노·사물인터넷·삼차원 모델링과 영자신문·외국어·국제 교류도 각 계획의 맥락으로 구분합니다. 계획을 이미 완료된 성과로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -794,7 +1021,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<p class=\"caution\">서비스의 원래 화면에는 외국어 제품명과 일부 메뉴가 표시될 수 있습니다. 직접 입력하는 사례와 생성된 수업 설명은 한국어로 요청하고 검토했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ai\" target=\"_blank\" rel=\"noopener\">생성 도구 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">서비스의 원래 화면에는 외국어 제품명과 일부 메뉴가 표시될 수 있습니다. 직접 입력하는 사례와 생성된 수업 설명은 한국어로 요청하고 검토했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ai\" target=\"_blank\" rel=\"noopener\">생성 도구 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -851,7 +1078,203 @@ window.HANYOUNG_GUIDE = [
       "진로 선택판 요청",
       "예일여고 독서·직업 탐색 맥락의 활동 선택판 여섯 가지를 제안하세요. 독서 기록·직업 조사·가상 인터뷰 질문을 구글 문서·프레젠테이션·종이 활동지로 수행합니다. 실제 인터뷰·개인정보·학교 공식 배점은 넣지 마세요. 모든 제목과 설명은 한국어로만 작성하세요."
     ],
-    "extra": "<p class=\"caution\">기준표의 회의 등 부자연스러운 수준명, 선택판의 신교유형 등의 오탈자는 자연스러운 한국어로 교사가 수정해야 합니다. 기준표는 학교 공식 규정이 아닙니다. 독서 계획을 구글 문서로 내보내고 문서 도우미의 한국어 제안도 확인했습니다. 문서 도우미가 초안을 학교 자료의 사실로 다시 묶은 부분은 교사가 검토해야 합니다. 현재 계정에서 확인한 기능이며 플러스 구독만으로 모든 생성 기능이 포함된다고 단정하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://docs.google.com/document/d/1waWVVArFBwe6hUjn0R87w-maNKNn883SxLL5y7wCexQ/edit\" target=\"_blank\" rel=\"noopener\">독서 수업 문서 열기 ↗</a> <a href=\"https://classroom.google.com/ai/lp\" target=\"_blank\" rel=\"noopener\">수업 계획 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/qg\" target=\"_blank\" rel=\"noopener\">퀴즈 생성 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/rg\" target=\"_blank\" rel=\"noopener\">기준표 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/pa\" target=\"_blank\" rel=\"noopener\">프로젝트 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/chb\" target=\"_blank\" rel=\"noopener\">선택판 도구 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">기준표의 회의 등 부자연스러운 수준명, 선택판의 신교유형 등의 오탈자는 자연스러운 한국어로 교사가 수정해야 합니다. 기준표는 학교 공식 규정이 아닙니다. 독서 계획을 구글 문서로 내보내고 문서 도우미의 한국어 제안도 확인했습니다. 문서 도우미가 초안을 학교 자료의 사실로 다시 묶은 부분은 교사가 검토해야 합니다. 현재 계정에서 확인한 기능이며 플러스 구독만으로 모든 생성 기능이 포함된다고 단정하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://classroom.google.com/ai/lp\" target=\"_blank\" rel=\"noopener\">수업 계획 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/qg\" target=\"_blank\" rel=\"noopener\">퀴즈 생성 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/rg\" target=\"_blank\" rel=\"noopener\">기준표 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/pa\" target=\"_blank\" rel=\"noopener\">프로젝트 도구 열기 ↗</a> <a href=\"https://classroom.google.com/ai/chb\" target=\"_blank\" rel=\"noopener\">선택판 도구 열기 ↗</a> <a href=\"https://docs.google.com/document/d/1waWVVArFBwe6hUjn0R87w-maNKNn883SxLL5y7wCexQ/edit\" target=\"_blank\" rel=\"noopener\">독서 수업 문서 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G39",
+    "title": "문서·자료표·발표·설문으로 확장",
+    "lead": "한국어 독서·과학 포스터 사례를 실제 수업 도구에서 만들었습니다.",
+    "tasks": [
+      "독서 계획을 문서로 내보내고 근거를 검토합니다.",
+      "가상 탐구 자료표의 조건·성장량·단위를 확인합니다.",
+      "발표 초안에서 변인과 출처 표현을 고칩니다.",
+      "성찰 설문의 객관식 한 개·장문형 두 개를 검토합니다.",
+      "실제 배포 전에 개인정보 수집 설정과 응답 범위를 확인합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/google-workspace-create.jpg",
+        "드라이브에서 수업 도구로 이어가기 · 실제 화면 · 2026. 10. 05."
+      ],
+      [
+        "yale/actual/google-sheets-yale-korean.jpg",
+        "과학 포스터용 가상 탐구 자료표 · 실제 화면 · 2026. 10. 05."
+      ],
+      [
+        "yale/actual/google-slides-yale-korean.jpg",
+        "한국어 과학 포스터 점검 초안 · 실제 화면 · 2026. 10. 05."
+      ],
+      [
+        "yale/actual/google-forms-yale-korean.jpg",
+        "한국어 독서 성찰 설문 세 문항 · 실제 화면 · 2026. 10. 05."
+      ]
+    ],
+    "copy": [
+      "한국어 성찰 설문 요청",
+      "예일여고 독서 수업의 교사 검토용 성찰 설문을 만드세요. 책읽수다 모둠 독서와 북브릿지 진로·전공 연계 독서 맥락을 참고하세요. 근거 찾기에 도움이 된 활동을 고르는 객관식 질문 한 개, 원문의 주장과 근거를 쓰는 장문형 질문 한 개, 다음 진로 질문을 쓰는 장문형 질문 한 개를 제안하세요. 모든 제목·설명·보기는 한국어로만 작성하세요. 학생 이름·학번·이메일·성적을 수집하지 않고 학교 공식 설문이 아닌 교사용 제안이라고 표시하세요."
+    ],
+    "extra": "<p class=\"caution\">자료표의 수치는 설명을 위한 가상 자료이며 실제 측정 결과가 아닙니다. 문서·발표·설문의 생성 도우미는 현재 계정에서 확인한 별도 제공 범위입니다. 발표 초안의 변인 간 상관관계 타당성 확보는 통제 조건의 일관성 확인으로, 이론적 가상 자료는 가상 자료 구분 표기로 보완합니다. 비공개 초안을 만들었으며 학생에게 배포하거나 설문 응답을 수집하지 않았습니다. 앱시트는 로그인 시 이용약관 동의를 요구하는 화면까지 확인했으므로 앱 제작·배포 완료로 소개하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://drive.google.com/drive/u/0/home\" target=\"_blank\" rel=\"noopener\">구글 드라이브 열기 ↗</a> <a href=\"https://docs.google.com/spreadsheets/d/1wFzNts8XQyUlPvyieUr-GQUfSvJ2iGLAHZX0hMmJ7h0/edit#gid=0\" target=\"_blank\" rel=\"noopener\">가상 탐구 자료표 열기 ↗</a> <a href=\"https://docs.google.com/presentation/d/1trGuCFCKPSNnTNMgvUQeUYrHaMp8pBcdZ7hoQb2xjy4/edit\" target=\"_blank\" rel=\"noopener\">과학 포스터 초안 열기 ↗</a> <a href=\"https://docs.google.com/forms/d/1G15kRbp6uPMwKW3c9t2AZ98yalQeuJT71GXsa7In06A/edit\" target=\"_blank\" rel=\"noopener\">독서 성찰 설문 편집 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G16",
+    "title": "제미나이 노트북의 역할",
+    "lead": "선택한 자료에서 답을 찾습니다.",
+    "tasks": [
+      "출처·질문·스튜디오를 구분합니다.",
+      "학교 사실과 교사용 제안을 나눠 요청합니다.",
+      "답변의 문장과 출처를 대조합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/notebook-yale-korean-result.jpg",
+        "노트북은 선택한 자료에서 답합니다 · 실제 화면 · 2026. 10. 05."
+      ]
+    ],
+    "copy": [],
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G17",
+    "title": "시연 자료의 범위",
+    "lead": "학교 계획 전문 대신 발췌·요약을 사용했습니다.",
+    "tasks": [
+      "학교 활동 맥락만 선별합니다.",
+      "학생 개인정보와 학교 평가 규정을 새로 넣지 않습니다.",
+      "요약임을 출처 제목과 설명에 표시합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/notebook-yale-source-input.jpg",
+        "자료 추가의 실제 입력 · 실제 화면 · 2026. 10. 05."
+      ]
+    ],
+    "copy": [],
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G18",
+    "title": "질문 → 비교 → 검토",
+    "lead": "출처에 없는 조건을 만들지 않도록 요청합니다.",
+    "tasks": [
+      "비교할 활동을 세 가지로 한정합니다.",
+      "대상·활동을 자료에 있는 내용으로만 정리합니다.",
+      "인용 표시는 실제 버튼인지 확인합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/notebook-yale-korean-result.jpg",
+        "한국어로 다시 정리한 학교 활동 · 실제 화면 · 2026. 10. 05."
+      ]
+    ],
+    "copy": [
+      "학교 활동 비교 요청",
+      "자료에서 책읽수다·북브릿지·과학중점과정을 비교하세요. 대상과 활동을 출처에 있는 사실로 정리하고 교사용 제안은 별도로 표시하세요. 북브릿지는 진로·전공 연계 독서이며 심층 쟁점 독서토론과 같은 활동으로 단정하지 마세요. 출처에 없는 배점·실제 성취·단계별 세부 활동은 만들지 마세요. 모든 제목과 설명은 한국어로만 작성하세요."
+    ],
+    "extra": "<p class=\"caution\">현재 다시 생성한 표에는 대괄호 숫자가 일반 텍스트로 출력된 부분이 있습니다. 이것만으로 클릭 가능한 인용이라고 설명하지 않고 출처 패널을 직접 엽니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G19",
+    "title": "예일여고 사례 검토와 수정",
+    "lead": "활동의 관계를 바로잡은 실제 사례입니다.",
+    "tasks": [
+      "북브릿지를 심층 쟁점 토론 자체로 묶은 첫 답변을 검토합니다.",
+      "진로 단계의 임의 묶음과 세부 활동 배정을 삭제합니다.",
+      "한국어로 다시 생성한 답변과 출처를 대조합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/notebook-yale-korean-source.jpg",
+        "출처 원문과 다시 대조 · 실제 화면 · 2026. 10. 05."
+      ]
+    ],
+    "copy": [
+      "활동 관계 정정 요청",
+      "북브릿지는 진로·전공 연계 독서이고 심층 쟁점 독서토론 자체로 단정하지 마세요. 진로 단계별 세부 활동 배정은 자료에 없으므로 삭제하거나 확인 필요로 표시하세요. 사실과 교사용 제안을 분리하여 한국어로만 다시 작성하세요."
+    ],
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G20",
+    "title": "스튜디오 결과 검토",
+    "lead": "퀴즈와 슬라이드도 검토 대상입니다.",
+    "tasks": [
+      "퀴즈 정답이 원문에 있는지 확인합니다.",
+      "생각그물의 연결 관계를 원문과 비교합니다.",
+      "슬라이드의 교사용 제안과 완료된 성과를 구분합니다."
+    ],
+    "images": [
+      [
+        "yale/actual/notebook-yale-quiz.jpg",
+        "학교 활동 퀴즈로 자료 읽기 · 실제 화면 · 2026. 10. 04."
+      ],
+      [
+        "yale/actual/notebook-yale-slide-proposal.jpg",
+        "슬라이드 결과도 교사가 검토 · 실제 화면 · 2026. 10. 04."
+      ]
+    ],
+    "copy": [
+      "결과 검토 요청",
+      "자료에 없는 단계별 활동·배점·실제 성과를 삭제하거나 확인 필요로 표시하세요. 원문 사실과 교사용 제안을 구분하고 모든 제목·표·설명을 한국어로만 작성하세요."
+    ],
+    "extra": "<p class=\"caution\">생각그물·인포그래픽의 관계와 단계 배정도 교사가 원문과 대조합니다. 이 자료에는 한국어로 확인한 퀴즈와 교사용 제안 페이지를 사용했습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
+    "links": [],
+    "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
+    "fail": [
+      "화면이 다르면 현재 계정의 권한·라이선스·관리자 설정을 확인합니다.",
+      "학생 배포 전에 교사가 원문·한국어 표현·시간·평가 조건을 확인합니다."
+    ]
+  },
+  {
+    "id": "G21",
+    "title": "내 수업에 노트북 적용",
+    "lead": "허용된 자료로 같은 흐름을 반복합니다.",
+    "tasks": [
+      "읽기 자료를 추가합니다.",
+      "요약과 학생 질문을 요청합니다.",
+      "출처·한국어 표현을 확인하고 초안으로 저장합니다."
+    ],
+    "images": [],
+    "copy": [
+      "내 교과 요청",
+      "제공한 읽기 자료의 사실 세 개와 학생에게 물을 열린 질문 세 개를 분리하세요. 교사용 제안은 별도로 표시하고 자료에 없는 근거·규정·실제 성과는 만들지 마세요. 모든 제목과 설명은 한국어만 사용하세요."
+    ],
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://notebook.google.com/notebook/aa08ddc3-9633-4499-8577-3b08b3b55d01\" target=\"_blank\" rel=\"noopener\">예일여고 노트북 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -879,7 +1302,7 @@ window.HANYOUNG_GUIDE = [
       ]
     ],
     "copy": [],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent\" target=\"_blank\" rel=\"noopener\">센지피티 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent\" target=\"_blank\" rel=\"noopener\">센지피티 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://gov.wrks.ai/",
@@ -911,7 +1334,7 @@ window.HANYOUNG_GUIDE = [
       "독서 수업자료 요청",
       "예일여고 북브릿지는 진로·전공 연계 독서 활동입니다. 책읽수다는 세 명에서 다섯 명의 모둠이 도서관과 점심·방과 후 시간을 활용해 읽는 활동입니다. 이 사실을 바탕으로 고등학교 일학년 독서 수업 자료를 제안하세요. 스무 분 수업 시간과 활동지는 교사용 제안이며 학교 공식 규정이 아닙니다. 교사가 선정한 읽기 자료는 빈칸으로 남기세요. 목표 한 개, 시간 배분, 학생 질문 세 개, 주장·근거 활동지, 교사 검토 항목을 작성하세요. 제공하지 않은 지문·실제 사건·배점은 만들지 마세요. 학생 개인정보는 쓰지 마세요. 모든 제목과 설명은 한국어로만 작성하세요."
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -942,7 +1365,7 @@ window.HANYOUNG_GUIDE = [
       "검토와 수정 요청",
       "초안에서 학교 계획의 사실과 교사용 제안을 분리하세요. 북브릿지를 심층 쟁점 독서토론 자체로 단정한 문장은 고치세요. 제공하지 않은 원문을 인용하거나 법적 의무를 만든 문장은 삭제하세요. 시간 합계는 스무 분으로 맞추세요. 원문과 평가 배점은 교사가 정하도록 빈칸으로 남기세요. 수정 전 문장·수정 후 문장·수정 이유를 표로 쓰고 최종 초안을 한국어로만 작성하세요."
     ],
-    "extra": "<p class=\"caution\">새 한국어 시연에서는 불필요한 참여자 명단을 삭제하고 학생 질문에 원문 근거 위치를 추가했습니다. 수정 전·후와 이유를 표로 확인했습니다. 생성된 목록의 별표·문장 구분도 배포 전에 교사가 정리합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">새 한국어 시연에서는 불필요한 참여자 명단을 삭제하고 학생 질문에 원문 근거 위치를 추가했습니다. 수정 전·후와 이유를 표로 확인했습니다. 생성된 목록의 별표·문장 구분도 배포 전에 교사가 정리합니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -964,7 +1387,7 @@ window.HANYOUNG_GUIDE = [
       "수업자료 검토 도우미 역할",
       "당신은 예일여고 교사를 위한 수업자료 검토 도우미입니다. 학교 계획의 사실, 교사용 제안, 확인이 필요한 내용을 분리합니다. 학교 문서에 없는 공식 규정·배점·실제 성취 결과는 만들지 않습니다. 학생 개인정보를 요구하지 않습니다. 원문이 없으면 빈칸과 확인 필요를 표시합니다. 먼저 대상 학년·수업 주제·시간·원문 여부를 확인합니다. 결과는 목표·활동 흐름·학생 질문·활동지·교사 확인 항목 순서로 제시합니다. 모든 제목·표·설명은 한국어로만 작성하고 영어·한자·외국 문자를 쓰지 않습니다. 다른 주제로 재사용할 때도 이 기준을 유지합니다."
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -999,7 +1422,7 @@ window.HANYOUNG_GUIDE = [
       "테스트 요청",
       "예일여고 북브릿지는 진로·전공 연계 독서 활동입니다. 책읽수다는 세 명에서 다섯 명의 모둠이 도서관과 점심·방과 후 시간을 활용해 읽는 활동입니다. 이 사실을 바탕으로 고등학교 일학년 독서 수업 자료를 제안하세요. 스무 분 수업 시간과 활동지는 교사용 제안이며 학교 공식 규정이 아닙니다. 교사가 선정한 읽기 자료는 빈칸으로 남기세요. 목표 한 개, 시간 배분, 학생 질문 세 개, 주장·근거 활동지, 교사 검토 항목을 작성하세요. 제공하지 않은 지문·실제 사건·배점은 만들지 마세요. 학생 개인정보는 쓰지 마세요. 모든 제목과 설명은 한국어로만 작성하세요."
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -1026,7 +1449,7 @@ window.HANYOUNG_GUIDE = [
       "진로 주제 재사용",
       "예일여고 진로 교육 맥락의 십오 분 수업을 제안하세요. 학교 계획에는 꿈씨앗·꿈새싹·꿈나무·꿈열매·꿈추수 단계와 진로 탐색·독서·체험·개인 기록 공유의 연계가 제시됩니다. 단계별 세부 활동은 임의로 배정하지 마세요. 학생은 책의 근거·관심 직업의 질문·다음 탐색 계획을 기록합니다. 삼 분 회상·칠 분 작성·오 분 공유는 교사용 제안으로 표시하세요. 학생 이름·실제 인터뷰·학교 공식 배점은 넣지 마세요. 모든 문장은 한국어만 사용하세요."
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/66baec1c-7c36-4f99-91f9-82507729e864\" target=\"_blank\" rel=\"noopener\">진로 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/66baec1c-7c36-4f99-91f9-82507729e864\" target=\"_blank\" rel=\"noopener\">진로 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -1045,7 +1468,7 @@ window.HANYOUNG_GUIDE = [
     ],
     "images": [],
     "copy": [],
-    "extra": "<p class=\"caution\">시연에서 실제 예약이나 메일을 만들거나 발송하지 않았습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent\" target=\"_blank\" rel=\"noopener\">센지피티 메뉴 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">시연에서 실제 예약이나 메일을 만들거나 발송하지 않았습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent\" target=\"_blank\" rel=\"noopener\">센지피티 메뉴 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -1068,7 +1491,7 @@ window.HANYOUNG_GUIDE = [
       "수업 적용 기록",
       "내 수업 주제:\n학교 계획의 사실:\n새 수업 제안:\n수정 전 문장:\n수정 후 문장:\n수정 이유:\n다음 확인 사항:\n재사용 결과:"
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://gov.wrks.ai/ko/agent/v2/de3ffe82-f888-4b4a-9aaf-99455f4db23d\" target=\"_blank\" rel=\"noopener\">독서 시연 대화 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
@@ -1090,7 +1513,7 @@ window.HANYOUNG_GUIDE = [
       "공유 서식",
       "수업 주제:\n활용한 기능:\n내가 수정한 한 문장:\n수정 이유:\n추가 확인 사항:"
     ],
-    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l\" target=\"_blank\" rel=\"noopener\">연수 패들렛 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [
       [
         "https://padlet.com/cdl_pad/sen-bit-ly-26-6xl2h2xnxw1cam8l",
@@ -1114,7 +1537,7 @@ window.HANYOUNG_GUIDE = [
     ],
     "images": [],
     "copy": [],
-    "extra": "<p class=\"caution\">학교 계획 전문·실제 학생 과제·성적·학생 음성·회의 기록은 공개물에 포함하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"../guide/index.html#G33\" target=\"_blank\" rel=\"noopener\">참가자 교재 열기 ↗</a><p>시연 자료는 강사 계정의 접근 권한이 필요합니다. 센스쿨의 일부 메뉴는 같은 주소 안에서 열리므로 로그인 후 해당 메뉴를 선택합니다. 생성 도구는 입력 화면으로 열리며, 이전 생성 결과는 캡처에서 확인합니다.</p></div>",
+    "extra": "<p class=\"caution\">학교 계획 전문·실제 학생 과제·성적·학생 음성·회의 기록은 공개물에 포함하지 않습니다.</p><div class=\"live-destinations\"><h3>실제 화면 바로 열기</h3><a href=\"../guide/index.html#G33\" target=\"_blank\" rel=\"noopener\">참가자 교재 열기 ↗</a><p>로그인과 해당 자료의 접근 권한이 필요할 수 있습니다. 같은 주소에서 열리는 센스쿨 메뉴는 로그인 후 선택합니다.</p></div>",
     "links": [],
     "success": "기능과 수업 제안·교사의 확인 조건을 구분할 수 있습니다.",
     "fail": [
